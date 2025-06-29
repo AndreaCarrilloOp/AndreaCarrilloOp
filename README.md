@@ -34,10 +34,11 @@
 ---
 
 <!-- Contador de vistas -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="andcarrillo" />   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="andcarrillo" />
+[![Andrea Carrillo profile views](https://u8views.com/api/v1/github/profiles/89230691/views/day-week-month-total-count.svg)](https://u8views.com/github/AndCarrillo)
 
-Hi there! 👋 I'm Andrea Carrillo, a curious and motivated Information Systems Engineering student.  
-I love building things with code — from data dashboards and backend scripts to cloud-powered apps.  
+Hi there! 👋 I'm Andrea Carrillo, a curious and motivated Information Systems Engineering student.
+I love building things with code — from data dashboards and backend scripts to cloud-powered apps.
 Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific computing, always looking for ways to turn ideas into real solutions.
 
 - 🔭 I’m currently working on: Data-driven apps and cloud automation
