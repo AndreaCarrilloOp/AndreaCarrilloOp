@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&repeat=false&width=435&lines=My+name+is+Andrea+Carrillo" alt="Typing SVG" />
 <!-- Subtítulo con breve descripción personal -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&repeat=false&width=700&lines=Passionate+about+Data+and+Software+Development;Always+learning+and+building+new+projects."alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&repeat=false&width=700&lines=Passionate+about+Data+and+Software+Development;Always+learning+and+building+new+projects." alt="Typing SVG" />
   </a>
 </p>
 </div>
