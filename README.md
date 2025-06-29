@@ -43,7 +43,12 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
 - 🔭 I’m currently working on: Data-driven apps and cloud automation
 - 🌱 I’m learning: AI/ML, scientific computing, and cloud certification
 - 💬 Ask me about: Python, SQL, Power BI, or backend development  
-- 📫 How to reach me:<p align="center"> <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mylinkedin"/></a> 
+- 📫 How to reach me:
+  <p align="center">
+    <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mylinkedin"/>
+    </a>
+  </p>
 
 <table  align="center" width="120%">
   <tr>
