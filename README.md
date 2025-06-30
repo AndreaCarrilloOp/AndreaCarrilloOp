@@ -1,24 +1,32 @@
-<!-- Encabezado con nombre animado -->
+<!-- Encabezado con nombre animado y GIFs decorativos -->
 <div align="center">
+  <!-- Línea decorativa superior -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=header"/>
+  <img height="80" src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Left" /> <!-- Turtle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&repeat=false&width=435&lines=My+name+is+Andrea+Carrillo" alt="Typing SVG" />
-<!-- Subtítulo con breve descripción personal -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&pause=1000&color=BB005D&background=01000600&center=true&vCenter=true&repeat=false&width=700&lines=Passionate+about+Data+and+Software+Development;Always+learning+and+building+new+projects." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&pause=1000&color=00913F&center=true&vCenter=true&width=500&lines=Andrea+Carrillo+%E2%80%93+Software+%26+Data+Engineer" alt="Typing SVG" />
   </a>
-</p>
+  <img height="80" src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Right" /><!-- Turtle -->
 </div>
+<!-- Línea decorativa inferior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=footer"/>
 
+<!-- Gráfico Pacman + contador + About Me -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg" />
 </picture>
+<p align="left"><sub><a href="https://github.com/abozanona/abozanona" target="_blank">generado con abozanona/snk</a></sub></p>
+
+---
+
 <p align="left">
-  <a href="https://github.com/abozanona/abozanona" target="_blank">generado con abozanona/snk</a>
+  <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Visitor%20Counter&color=00913F&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
-<!-- Snake animation generated using Platane/snk 
+<!-- Snake animation generated using Platane/snk  -->
+<!-- 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndCarrillo/snk/output/github-snake-dark.svg" />
@@ -31,41 +39,55 @@
 </p>
 -->
 
----
-
-<!-- Contador de vistas -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="andcarrillo" />
-[![Andrea Carrillo profile views](https://u8views.com/api/v1/github/profiles/89230691/views/day-week-month-total-count.svg)](https://u8views.com/github/AndCarrillo)
-
-Hi there! 👋 I'm Andrea Carrillo, a curious and motivated Information Systems Engineering student.
-I love building things with code — from data dashboards and backend scripts to cloud-powered apps.
-Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific computing, always looking for ways to turn ideas into real solutions.
-
-- 🔭 I’m currently working on: Data-driven apps and cloud automation
-- 🌱 I’m learning: AI/ML, scientific computing, and cloud certification
-- 💬 Ask me about: Python, SQL, Power BI, or backend development  
-- 📫 How to reach me:
-  <p align="center">
-    <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mylinkedin"/>
-    </a>
+<!-- About Me resumido y profesional -->
+<section align="justify">
+  <p>
+    👩‍💻 I'm <strong>Andrea Carrillo</strong>, an Information Systems Engineering student with experience in
+    <strong>software development, data analysis</strong>, and <strong>process automation</strong>.
+    Skilled in <strong>Python, .NET, SQL, Power BI</strong>, and cloud tools like <strong>Azure DevOps</strong>, I build
+    data-driven solutions from backend systems to dashboards and automation workflows.
   </p>
 
-<table  align="center" width="120%">
-  <tr>
-    <td valign="top" width="90%">
-      <h3>🚀 Highlight Projects</h3>
+  <ul>
+    <li>🔭 <strong>Currently working on:</strong> Data-driven apps and cloud automation</li>
+    <li>🌱 <strong>Learning:</strong> AI/ML, scientific computing, and cloud certification</li>
+    <li>💬 <strong>Ask me about:</strong> Python, SQL, Power BI, or backend development</li>
+    <li>📫 How to contact me: </li>
+  </ul>
+  <!-- Contact Badges -->
+  <p align="center">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <!-- Email -->
+    <a href="mailto:acarrillo.vlk@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    </a>
+    <!-- Discord -->
+    <a href="https://discordapp.com/users/valky0709" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+    </a>
+  </p>
+</section>
 
-- 🐶 **Digital Pet Record** – Health & care manager for pets using React and Firebase  
-- 🛠 **SharePoint Automation** – Extracted permissions and structure using PowerShell  
-- 📊 **Dashboard ETL Pipelines** – Data extraction and transformation with Python + Power BI  
-    </td>
-    <td valign="top" align="center" width="30%">
-      <img src="https://github.com/images/mona-whisper.gif" width="120" alt="Mona Whisper">
-    </td>
-  </tr>
-</table>
-
+<!-- Proyectos destacados -->
+<div style="margin: 40px 0;">
+  <table align="center" width="120%" style="margin: auto;">
+    <tr>
+      <td valign="top" width="85%">
+        <h3>🚀 Highlight Projects</h3>
+        <ul>
+          <li>🐶 <strong>Digital Pet Record</strong> – Pet care manager using React & Firebase</li>
+          <li>📊 <strong>Dashboard ETL Pipelines</strong> – Data extraction with Python + Power BI</li>
+        </ul>
+      </td>
+      <td valign="top" align="center" width="25%">
+        <img src="https://github.com/images/mona-whisper.gif" width="120" alt="Mona Whisper">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3>💻 Languages and Tools</h3>
 <table align="center">
@@ -138,6 +160,7 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
   </tr>
 </table>
 
+<!-- Sección de herramientas, plataformas y entornos -->
 <table align="center">
   <tr>
     <!-- Herramientas de desarrollo -->
@@ -177,12 +200,12 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
   </tr>
 </table>
 
-
+<!-- Lenguajes más usados -->
 <p align="center">
-  <!-- Lenguajes más usados -->
   <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andcarrillo&show_icons=true&locale=en&hide_title=true&layout=compact&theme=dracula" alt="Top Languages" />
-  </p>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andcarrillo&show_icons=true&locale=en&hide_title=true&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
+</p>
 
 <!-- Sección de Estadísticas GitHub -->
   <h3>⚡ <b>My GitHub stats</h3>
@@ -196,11 +219,10 @@ Right now, I’m deepening my skills in Python, .NET, Power BI, and scientific c
       <img height="150px" src="https://streak-stats.demolab.com?user=andCarrillo&theme=dracula&border_radius=6&border=FFFFFF" alt="GitHub Streak" />
     </a>
   </p>
-
+  
 
 <!-- Sección de Trofeos de GitHub -->
 <h3>🏆 <b> My GitHub awards</h3>
-  <!-- Imagen de trofeos filtrada y centrada -->
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img height="150px" src="https://github-profile-trophy.vercel.app/?username=andcarrillo&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
