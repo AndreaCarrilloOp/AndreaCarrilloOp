@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=header"/>
     <img height="70" src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Left"/>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=22&pause=1000&color=00913F&center=true&vCenter=true&width=500&lines=Andrea+Carrillo+%E2%80%93+Software+%26+Data+Engineer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=320&height=100&lines=Hey+there!+I'm+Andrea+Carrillo;Software+%26+Data+Engineer" alt="Typing SVG" /></a>
     </a>
     <img height="70" src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Right"/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=footer"/>
