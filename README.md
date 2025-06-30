@@ -11,16 +11,7 @@
 <!-- Línea decorativa inferior -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=footer"/>
 
-<!-- Gráfico Pacman + contador + About Me -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg" />
-</picture>
-<p align="left"><sub><a href="https://github.com/abozanona/abozanona" target="_blank">generado con abozanona/snk</a></sub></p>
-
----
-
+<!-- Contador + About Me -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Visitor%20Counter&color=00913F&style=for-the-badge" alt="Visitor Counter" />
 </p>
@@ -219,12 +210,18 @@
       <img height="150px" src="https://streak-stats.demolab.com?user=andCarrillo&theme=dracula&border_radius=6&border=FFFFFF" alt="GitHub Streak" />
     </a>
   </p>
-  
-
+<!-- Gráfico Pacman -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg">
+      <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg" />
+    </picture>
+    <p align="left"><sub><a href="https://github.com/abozanona/abozanona" target="_blank">PACMAN - generado con abozanona/snk</a></sub></p>
+    
 <!-- Sección de Trofeos de GitHub -->
-<h3>🏆 <b> My GitHub awards</h3>
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img height="150px" src="https://github-profile-trophy.vercel.app/?username=andcarrillo&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
-    </a>
-  </p>
+<h3>🏆 <b>My GitHub Awards</b></h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=andcarrillo&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
+  </a>
+</p>
