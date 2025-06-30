@@ -4,7 +4,7 @@
   <p>
     <img src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Left" width="80"/>
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=26&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=100&lines=Hey+there!+I'm+Andrea;Software+%26+Data+Engineer" alt="Typing SVG" width="340"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=100&lines=Hey+there!+I'm+Andrea;Software+%26+Data+Engineer" alt="Typing SVG" width="340"/>
     </a>
   <img src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Right" width="80"/>
   </p>
