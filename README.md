@@ -1,14 +1,14 @@
 <!-- Encabezado animado con GIFs decorativos -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=header" alt="Header Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=header" alt="Header Wave" width="100%"/>
   <p>
-    <img src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Left" width="70"/>
+    <img src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Left" width="80"/>
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=20&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=320&height=100&lines=Hey+there!+I'm+Andrea+Carrillo;Software+%26+Data+Engineer" alt="Typing SVG" width="340"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=26&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=100&lines=Hey+there!+I'm+Andrea;Software+%26+Data+Engineer" alt="Typing SVG" width="340"/>
     </a>
-  <img src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Right" width="70"/>
+  <img src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Right" width="80"/>
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=footer" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=footer" alt="Footer Wave" width="100%"/>
 </div>
 
 <!-- Contador + About Me -->
