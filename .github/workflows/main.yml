@@ -4,7 +4,7 @@ on:
   schedule: # run automatically every 24 hours
     - cron: "0 */24 * * *"
   workflow_dispatch: # allows to manually run the job at any time
-  push: # run on every push on the master branch
+  push: # run on every push on the main branch
     branches:
       - main
 
