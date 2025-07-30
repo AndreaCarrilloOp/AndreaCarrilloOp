@@ -63,7 +63,7 @@
 </section>
 
 <!-- Proyectos destacados -->
-<div style="margin: 40px 0;">
+<div>
   <table align="center" width="100%" style="margin: auto; height: 100%;">
     <tr style="height: 100%;">
       <td valign="middle" style="vertical-align: middle;" width="85%">
@@ -74,7 +74,7 @@
         </ul>
       </td>
       <td valign="middle" align="center" style="vertical-align: middle;" width="15%">
-        <img src="https://i.pinimg.com/originals/34/48/36/3448362645ee45bb499624196c788f30.gif" width="120" alt="black cat">
+        <img src="https://c.tenor.com/s9gF0ISVh7wAAAAd/tenor.gif" width="160" alt="black cat">
       </td>
     </tr>
   </table>
