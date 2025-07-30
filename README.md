@@ -64,17 +64,17 @@
 
 <!-- Proyectos destacados -->
 <div style="margin: 40px 0;">
-  <table align="center" width="120%" style="margin: auto;">
-    <tr>
-      <td valign="top" width="85%">
+  <table align="center" width="100%" style="margin: auto; height: 100%;">
+    <tr style="height: 100%;">
+      <td valign="middle" style="vertical-align: middle;" width="85%">
         <h3>🚀 Highlight Projects</h3>
         <ul>
           <li>🐶 <strong>Digital Pet Record</strong> – Pet care manager using React & Firebase</li>
           <li>📊 <strong>Dashboard ETL Pipelines</strong> – Data extraction with Python + Power BI</li>
         </ul>
       </td>
-      <td valign="top" align="center" width="25%">
-        <img src="https://github.com/images/mona-whisper.gif" width="120" alt="Mona Whisper">
+      <td valign="middle" align="center" style="vertical-align: middle;" width="15%">
+        <img src="https://i.pinimg.com/originals/34/48/36/3448362645ee45bb499624196c788f30.gif" width="120" alt="black cat">
       </td>
     </tr>
   </table>
