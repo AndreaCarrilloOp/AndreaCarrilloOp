@@ -16,20 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Visitor%20Counter&color=00913F&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
-<!-- Snake animation generated using Platane/snk  -->
-<!-- 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndCarrillo/snk/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndCarrillo/snk/output/github-snake.svg" />
-    <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/AndCarrillo/snk/output/github-snake.svg" style="max-width: 100%;" />
-  </picture>
-</p>
-<p align="center">
-  <a href="https://github.com/platane/snk?tab=readme-ov-file" target="_blank">Generado con Platane/snk</a>
-</p>
--->
-
 <!-- About Me resumido y profesional -->
 <section align="justify">
   <p>
