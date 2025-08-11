@@ -26,11 +26,11 @@
   </p>
 
 <!-- Imagen descriptiva: rustic coffee -->
-  <div style="float: right; margin-left: 5px; max-width: 40px; overflow: hidden;">
+  <div style="float: right; margin-left: 5px; max-width: 400px; overflow: hidden;">
     <img 
       src="https://videos.openai.com/vg-assets/assets%2Ftask_01k2b6amyyem1tqpdxbhex7sab%2F1754869998_img_0.webp?st=2025-08-10T22%3A03%3A39Z&se=2025-08-16T23%3A03%3A39Z&sks=b&skt=2025-08-10T22%3A03%3A39Z&ske=2025-08-16T23%3A03%3A39Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=3d249c53-07fa-4ba4-9b65-0bf8eb4ea46a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=QjdMyqvxayFZp6IPMVgAy2gG%2F0C9toidHAnZ6R7FM%2Bw%3D&az=oaivgprodscus" 
       alt="rustic coffee" 
-      style=" height: auto; " width="400" align="right">
+      style=" height: auto; " width="350" align="right">
   </div>
   
   <!-- Lista de intereses y temas -->
