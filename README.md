@@ -24,14 +24,16 @@
     Skilled in <strong>Python, .NET, SQL, Power BI</strong>, and cloud tools like <strong>Azure DevOps</strong>, I build
     data-driven solutions from backend systems to dashboards and automation workflows.
   </p>
-
+  
 <!-- Imagen descriptiva: rustic coffee -->
-  <div style="float: right; margin-left: 5px; max-width: 400px; overflow: hidden;">
-    <img 
-      src="https://videos.openai.com/vg-assets/assets%2Ftask_01k2b6amyyem1tqpdxbhex7sab%2F1754869998_img_0.webp?st=2025-08-10T22%3A03%3A39Z&se=2025-08-16T23%3A03%3A39Z&sks=b&skt=2025-08-10T22%3A03%3A39Z&ske=2025-08-16T23%3A03%3A39Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=3d249c53-07fa-4ba4-9b65-0bf8eb4ea46a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=QjdMyqvxayFZp6IPMVgAy2gG%2F0C9toidHAnZ6R7FM%2Bw%3D&az=oaivgprodscus" 
-      alt="rustic coffee" 
-      style=" height: auto; " width="350" align="right">
-  </div>
+<div style="float: right; margin-left: 10px; margin-right: 10px; max-width: 400px; overflow: hidden; padding-right: 10px;">
+  <img 
+    src="https://github.com/AndCarrillo/AndCarrillo/blob/main/assets/Coffee%26Code.png?raw=true" 
+    alt="rustic coffee" 
+    style="height: auto;" 
+    width="200" 
+    align="right">
+</div>
   
   <!-- Lista de intereses y temas -->
   <ul>
@@ -51,7 +53,7 @@
       <img src="https://img.shields.io/badge/valkstack@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email Badge" style="height:25px; width:auto;" />
     </a>
     <!-- Discord -->
-    <a href="https://discord.gg/ptNR72TE" target="_blank" rel="noopener noreferrer" style="display:inline-block;" title="User: valky_cr">
+    <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" style="display:inline-block;" title="User: valky_cr">
       <img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=plastic&logo=discord&logoColor=white" style="height:25px; width:auto;" />
     </a>
   </p>
