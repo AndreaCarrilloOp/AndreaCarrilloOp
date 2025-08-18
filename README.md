@@ -26,12 +26,12 @@
   </p>
   
 <!-- Imagen descriptiva: rustic coffee -->
-<div style="float: right; margin-left: 10px; margin-right: 10px; max-width: 400px; overflow: hidden; padding-right: 10px;">
+<div style="float: right; margin-left: 10px; margin-right: 10px; max-width: 200px; overflow: hidden; padding-right: 10px;">
   <img 
     src="https://github.com/AndCarrillo/AndCarrillo/blob/main/assets/Coffee%26Code.png?raw=true" 
     alt="rustic coffee" 
     style="height: auto;" 
-    width="200" 
+    width="180" 
     align="right">
 </div>
   
