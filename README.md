@@ -224,7 +224,7 @@ If you enjoy my open-source projects, tutorials, or automation tools,
 consider supporting my work.
 
 <p align="center">
-  <a href="https://ko-fi.com/valkystack">
+  <a href="https://ko-fi.com/valkystack/tip">
     <img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6"
          height="55"
          alt="Support on Ko-fi">
