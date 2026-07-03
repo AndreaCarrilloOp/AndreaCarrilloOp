@@ -46,11 +46,11 @@
   <p align="center">
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank" style="display:inline-block; margin-left:8px;">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height:25px; width:auto;" />
+      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"  style="height:25px; width:auto;" />
     </a>
     <!-- Email -->
     <a href="mailto:valkstack@gmail.com" style="display:inline-block;">
-      <img src="https://img.shields.io/badge/valkstack@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email Badge" style="height:25px; width:auto;" />
+      <img alt="Email Badge" src="https://img.shields.io/badge/valkstack@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white"  style="height:25px; width:auto;" />
     </a>
     <!-- Discord -->
     <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" style="display:inline-block;" title="User: valky_cr">
@@ -215,3 +215,24 @@
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=andcarrillo&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
   </a>
 </p>
+
+---
+
+## ☕ Support My Work
+
+If you enjoy my open-source projects, tutorials, or automation tools,
+consider supporting my work.
+
+<p align="center">
+  <a href="https://ko-fi.com/valkystack">
+    <img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6"
+         height="55"
+         alt="Support on Ko-fi">
+  </a>
+</p>
+
+Every contribution helps me build new projects,
+create educational content,
+and maintain open-source software.
+
+❤️ Thank you for your support!
