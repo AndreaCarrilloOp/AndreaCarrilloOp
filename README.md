@@ -4,7 +4,7 @@
   <p>
     <img src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Left" width="80"/>
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=100&lines=Hey+there!+I'm+Andrea;Software+%26+Data+Engineer" alt="Typing SVG" width="340"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=100&lines=Hey+there!+I'm+Andrea;Software+Developer" alt="Typing SVG" width="340"/>
     </a>
   <img src="https://minecraft.wiki/images/Baby_Turtle_Idle_%28Dungeons%29.gif" alt="Turtle Right" width="80"/>
   </p>
@@ -19,10 +19,9 @@
 <!-- About Me -->
 <section align="justify">
   <p>
-    👩‍💻 I'm <strong>Andrea Carrillo</strong>, an Information Systems Engineering student with experience in
-    <strong>software development, data analysis</strong>, and <strong>process automation</strong>.
-    Skilled in <strong>Python, .NET, SQL, Power BI</strong>, and cloud tools like <strong>Azure DevOps</strong>, I build
-    data-driven solutions from backend systems to dashboards and automation workflows.
+    👩‍💻 I'm <strong>Andrea Carrillo</strong>, an Information Systems Engineering student focused on
+    <strong>software development, relational databases, functional validation of applications</strong>, and <strong>process automation</strong>.
+    I have practical experience with <strong>C++, Python, SQL, Postman</strong>, and cloud tools like <strong>Azure.</strong>
   </p>
   
 <!-- Imagen descriptiva: rustic coffee -->
@@ -37,9 +36,9 @@
   
   <!-- Lista de intereses y temas -->
   <ul>
-    <li>🔭 <strong>Currently working on:</strong> Data-driven apps and cloud automation</li>
-    <li>🌱 <strong>Learning:</strong> AI/ML, scientific computing, and cloud certification</li>
-    <li>💬 <strong>Ask me about:</strong> Python, SQL, Power BI, or backend development</li>
+    <li>🔭 <strong>Currently working on:</strong> an NLP proof of concept for proforma request structuring</li>
+    <li>🌱 <strong>Learning:</strong> software quality, API testing, FastAPI, and document automation</li>
+    <li>💬 <strong>Ask me about:</strong> Python, SQL, Postman, or backend development</li>
     <li>📫 How to contact me: </li>
   </ul>
   <!-- Contact Badges -->
@@ -64,8 +63,8 @@
   <div style="flex: 1; min-width: 250px;">
     <h3>🚀 Highlight Projects</h3>
     <ul>
-      <li>🐶 <strong>Digital Pet Record</strong> – Pet care manager using React & Firebase</li>
-      <li>📊 <strong>Dashboard ETL Pipelines</strong> – Data extraction with Python + Power BI</li>
+      <li>🐾 <strong>PetShop</strong> – Responsive e-commerce prototype built with HTML5, CSS3, Bootstrap, JavaScript, and Netlify</li>
+      <li>🧾 <strong>Institutional Shuttle</strong> – App for booking and managing seats in the institutional transport system, using Android & Firebase</li>
     </ul>
   </div>
 </div>
@@ -81,6 +80,8 @@
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" alt="HTML5"><br><sub>HTML5</sub></td>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" alt="CSS3"><br><sub>CSS3</sub></td>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td>
+                    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"><br><sub>React</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" alt="Bootstrap"><br><sub>Bootstrap</sub></td>
         </tr>
       </table>
     </td>
@@ -94,17 +95,6 @@
           <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="32" alt="VB.NET"><br><sub>VB.NET</sub></td>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
-        </tr>
-      </table>
-    </td>
-    <!-- Tabla de Frameworks -->
-    <td valign="top">
-      <h4 align="center">🧱 Backend Frameworks</h4>
-      <table>
-        <tr>
-          <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32" alt="Django"><br><sub>Django</sub></td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="32" alt=".NET"><br><sub>.NET</sub></td>
         </tr>
       </table>
     </td>
@@ -125,6 +115,17 @@
         </tr>
       </table>
     </td>
+    <!-- Tabla de Frameworks -->
+    <td valign="top">
+      <h4 align="center">🧱 Backend Frameworks</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32" alt="Django"><br><sub>Django</sub></td>
+          <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"><br><sub>FastAPI</sub></td>
+        </tr>
+      </table>
+    </td>
 <!-- Scientific Libraries -->
 <td valign="top">
   <h4 align="center">🧪 Scientific Libraries</h4>
@@ -134,7 +135,6 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" alt="NumPy"><br><sub>NumPy</sub></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="32" alt="Matplotlib"><br><sub>Matplotlib</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="32" alt="SciPy"><br><sub>SciPy</sub></td>
-      <td align="center"><img src="https://www.r-project.org/logo/Rlogo.svg" width="32" alt="R"><br><sub>R</sub></td>
     </tr>
   </table>
 </td>
@@ -146,40 +146,37 @@
   <tr>
     <!-- Herramientas de desarrollo -->
     <td valign="top">
-      <h4 align="center">⚙️ Development Tools</h4>
+      <h4 align="center">🧪 Testing & QA</h4>
       <table align="center">
         <tr>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" alt="Git"><br><sub>Git</sub></td>
           <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="32" alt="Selenium"><br><sub>Selenium</sub></td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="32" alt="Heroku"><br><sub>Heroku</sub></td>
+          <td align="center"><img src="https://avatars.githubusercontent.com/u/2678858?s=200&v=4" width="32" alt="NUnit"><br><sub>NUnit</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="32" alt="PyTest"><br><sub>PyTest</sub></td>
         </tr>
       </table>
     </td>
-    <!-- Plataformas y UI/UX -->
+    <!-- Plataformas y Herramientas-->
     <td valign="top">
-      <h4 align="center">🎨 UI Design & Cloud Platforms</h4>
+      <h4 align="center">⚙️ Tools & Platforms</h4>
       <table align="center">
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
-        </tr>
-      </table>
-    </td>
-    <!-- Runtimes y no-code -->
-    <td valign="top">
-      <h4 align="center">⚙️ Runtime Environments & No-Code</h4>
-      <table align="center">
-        <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
-          <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" alt="Arduino"><br><sub>Arduino</sub></td>
+                    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" alt="Docker basics"><br><sub>Docker</sub></td>
+                    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
           <td align="center"><img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" width="32" alt="FlutterFlow"><br><sub>FlutterFlow</sub></td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
+
+<h3>🌿 Applied NLP Focus</h3>
+<p>
+  Natural Language Processing · spaCy · pdfplumber · information extraction · document automation
+</p>
 
 <!-- Lenguajes más usados -->
 <p align="center">
@@ -215,24 +212,3 @@
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=andcarrillo&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
   </a>
 </p>
-
----
-
-## ☕ Support My Work
-
-If you enjoy my open-source projects, tutorials, or automation tools,
-consider supporting my work.
-
-<p align="center">
-  <a href="https://ko-fi.com/valkystack/tip">
-    <img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6"
-         height="55"
-         alt="Support on Ko-fi">
-  </a>
-</p>
-
-Every contribution helps me build new projects,
-create educational content,
-and maintain open-source software.
-
-❤️ Thank you for your support!
