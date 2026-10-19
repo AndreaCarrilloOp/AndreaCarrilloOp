@@ -13,7 +13,7 @@
 
 <!-- Contador de visitas -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=andcarrillo&label=Visitor%20Counter&color=00913F&style=for-the-badge" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=AndreaCarrilloOp&label=Visitor%20Counter&color=00913F&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
 <!-- About Me -->
@@ -27,7 +27,7 @@
 <!-- Imagen descriptiva: rustic coffee -->
 <div style="float: right; margin-left: 10px; margin-right: 10px; max-width: 200px; overflow: hidden; padding-right: 10px;">
   <img 
-    src="https://github.com/AndCarrillo/AndCarrillo/blob/main/assets/Coffee%26Code.png?raw=true" 
+    src="https://github.com/AndreaCarrilloOp/AndreaCarrilloOp/blob/main/assets/Coffee%26Code.png?raw=true" 
     alt="rustic coffee" 
     style="height: auto;" 
     width="180" 
@@ -181,7 +181,7 @@
 <!-- Lenguajes más usados -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andcarrillo&show_icons=true&locale=en&hide_title=true&layout=compact&theme=dracula" alt="Top Languages" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaCarrilloOp&show_icons=true&locale=en&hide_title=true&layout=compact&theme=dracula" alt="Top Languages" />
   </a>
 </p>
 
@@ -190,18 +190,18 @@
   <p align="center">
     <!-- Estadísticas generales -->
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=andcarrillo&show_icons=true&hide_title=true&locale=en&theme=dracula" alt="GitHub Stats"/>
+      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AndreaCarrilloOp&show_icons=true&hide_title=true&locale=en&theme=dracula" alt="GitHub Stats"/>
     </a>
     <!-- Racha de contribuciones -->
     <a href="https://git.io/streak-stats" target="_blank">
-      <img height="150px" src="https://streak-stats.demolab.com?user=andCarrillo&theme=dracula&border_radius=6&border=FFFFFF" alt="GitHub Streak" />
+      <img height="150px" src="https://streak-stats.demolab.com?user=AndreaCarrilloOp&theme=dracula&border_radius=6&border=FFFFFF" alt="GitHub Streak" />
     </a>
   </p>
 <!-- Gráfico Pacman -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg">
-      <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/AndCarrillo/AndCarrillo/output/pacman-contribution-graph.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreaCarrilloOp/AndreaCarrilloOp/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreaCarrilloOp/AndreaCarrilloOp/output/pacman-contribution-graph.svg">
+      <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/AndreaCarrilloOp/AndreaCarrilloOp/output/pacman-contribution-graph.svg" />
     </picture>
     <p align="left"><sub><a href="https://github.com/abozanona/abozanona" target="_blank">PACMAN - generado con abozanona/snk</a></sub></p>
     
@@ -209,6 +209,6 @@
 <h3>🏆 <b>My GitHub Awards</b></h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=andcarrillo&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=AndreaCarrilloOp&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
   </a>
 </p>
