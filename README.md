@@ -116,76 +116,76 @@
 
 <table width="100%">
   <tr>
-    <th align="left" valign="middle" width="30%">Backend &amp; Databases</th>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/visualbasic/visualbasic-original.svg" width="24" alt="VB.NET"/><br/><sub>VB.NET</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/django/django-plain.svg" width="24" alt="Django"/><br/><sub>Django</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js"/><br/><sub>Node.js</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/oracle/oracle-original.svg" width="24" alt="Oracle"/><br/><sub>Oracle</sub></td>
+    <th colspan="12" width="50%" align="center" valign="middle">Backend &amp; Databases</th>
+    <th colspan="12" width="50%" align="center" valign="middle">Cloud Platforms &amp; Hosting</th>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">Version Control &amp; DevOps</th>
-    <td align="center" valign="middle" colspan="4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" width="24" alt="Git"/><br/><sub>Git</sub></td>
-    <td align="center" valign="middle" colspan="4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/github/github-original.svg" width="24" alt="GitHub"/><br/><sub>GitHub</sub></td>
-    <td align="center" valign="middle" colspan="4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/azuredevops/azuredevops-original.svg" width="24" alt="Azure DevOps"/><br/><sub>Azure DevOps</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/visualbasic/visualbasic-original.svg" width="24" alt="VB.NET"/><br/><sub>VB.NET</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/django/django-plain.svg" width="24" alt="Django"/><br/><sub>Django</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js"/><br/><sub>Node.js</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/oracle/oracle-original.svg" width="24" alt="Oracle"/><br/><sub>Oracle</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/cloudflare/cloudflare-original.svg" width="24" alt="Cloudflare"/><br/><sub>Cloudflare</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/netlify/netlify-original.svg" width="24" alt="Netlify"/><br/><sub>Netlify</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vercel/vercel-original.svg" width="24" alt="Vercel"/><br/><sub>Vercel</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/firebase/firebase-plain.svg" width="24" alt="Firebase"/><br/><sub>Firebase</sub></td>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">Cloud Platforms &amp; Hosting</th>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/cloudflare/cloudflare-original.svg" width="24" alt="Cloudflare"/><br/><sub>Cloudflare</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/netlify/netlify-original.svg" width="24" alt="Netlify"/><br/><sub>Netlify</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vercel/vercel-original.svg" width="24" alt="Vercel"/><br/><sub>Vercel</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/firebase/firebase-plain.svg" width="24" alt="Firebase"/><br/><sub>Firebase</sub></td>
+    <th colspan="12" width="50%" align="center" valign="middle">Version Control &amp; DevOps</th>
+    <th colspan="12" width="50%" align="center" valign="middle">Testing &amp; QA</th>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">Web Foundations &amp; UI Design</th>
-    <td align="center" valign="middle" colspan="4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/html5/html5-original-wordmark.svg" width="24" alt="HTML5"/><br/><sub>HTML5</sub></td>
-    <td align="center" valign="middle" colspan="4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/css3/css3-original-wordmark.svg" width="24" alt="CSS3"/><br/><sub>CSS3</sub></td>
-    <td align="center" valign="middle" colspan="4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/figma/figma-original.svg" width="24" alt="Figma"/><br/><sub>Figma</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" width="24" alt="Git"/><br/><sub>Git</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/github/github-original.svg" width="24" alt="GitHub"/><br/><sub>GitHub</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/azuredevops/azuredevops-original.svg" width="24" alt="Azure DevOps"/><br/><sub>Azure DevOps</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/selenium/selenium-original.svg" width="24" alt="Selenium"/><br/><sub>Selenium</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://avatars.githubusercontent.com/u/2678858?s=200&v=4" width="24" alt="NUnit"/><br/><sub>NUnit</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/pytest/pytest-original.svg" width="24" alt="PyTest"/><br/><sub>PyTest</sub></td>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">Frontend Frameworks &amp; Tooling</th>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/react/react-original.svg" width="24" alt="React"/><br/><sub>React</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vuejs/vuejs-original.svg" width="24" alt="Vue.js"/><br/><sub>Vue.js</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nuxtjs/nuxtjs-original.svg" width="24" alt="Nuxt"/><br/><sub>Nuxt</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vitejs/vitejs-original.svg" width="24" alt="Vite"/><br/><sub>Vite</sub></td>
+    <th colspan="12" width="50%" align="center" valign="middle">Frontend Frameworks &amp; Tooling</th>
+    <th colspan="12" width="50%" align="center" valign="middle">Data Analysis &amp; Scientific Computing</th>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">CSS Frameworks</th>
-    <td align="center" valign="middle" colspan="6"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/bootstrap/bootstrap-original.svg" width="24" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
-    <td align="center" valign="middle" colspan="6"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/tailwindcss/tailwindcss-original.svg" width="24" alt="Tailwind CSS"/><br/><sub>Tailwind CSS</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/react/react-original.svg" width="24" alt="React"/><br/><sub>React</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vuejs/vuejs-original.svg" width="24" alt="Vue.js"/><br/><sub>Vue.js</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nuxtjs/nuxtjs-original.svg" width="24" alt="Nuxt"/><br/><sub>Nuxt</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vitejs/vitejs-original.svg" width="24" alt="Vite"/><br/><sub>Vite</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/pandas/pandas-original.svg" width="24" alt="Pandas"/><br/><sub>Pandas</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/numpy/numpy-original.svg" width="24" alt="NumPy"/><br/><sub>NumPy</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/matplotlib/matplotlib-original.svg" width="24" alt="Matplotlib"/><br/><sub>Matplotlib</sub></td>
+    <td colspan="3" width="12.50%" align="center" valign="middle"><img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="24" alt="SciPy"/><br/><sub>SciPy</sub></td>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">BI &amp; Data Integration</th>
-    <td align="center" valign="middle" colspan="6"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="24" alt="Power BI"/><br/><sub>Power BI</sub></td>
-    <td align="center" valign="middle" colspan="6"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="24" alt="SSIS"/><br/><sub>SSIS</sub></td>
+    <th colspan="12" width="50%" align="center" valign="middle">Web Foundations &amp; UI Design</th>
+    <th colspan="12" width="50%" align="center" valign="middle">Low-Code Platforms</th>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">Data Analysis &amp; Scientific Computing</th>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/pandas/pandas-original.svg" width="24" alt="Pandas"/><br/><sub>Pandas</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/numpy/numpy-original.svg" width="24" alt="NumPy"/><br/><sub>NumPy</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/matplotlib/matplotlib-original.svg" width="24" alt="Matplotlib"/><br/><sub>Matplotlib</sub></td>
-    <td align="center" valign="middle" colspan="3"><img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="24" alt="SciPy"/><br/><sub>SciPy</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/html5/html5-original-wordmark.svg" width="24" alt="HTML5"/><br/><sub>HTML5</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/css3/css3-original-wordmark.svg" width="24" alt="CSS3"/><br/><sub>CSS3</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/figma/figma-original.svg" width="24" alt="Figma"/><br/><sub>Figma</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" width="24" alt="FlutterFlow"/><br/><sub>FlutterFlow</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Apps-Colored.svg" width="24" alt="Power Apps"/><br/><sub>Power Apps</sub></td>
+    <td colspan="4" width="16.67%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/oracle/oracle-original.svg" width="24" alt="Oracle APEX"/><br/><sub>Oracle APEX</sub></td>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">Automation &amp; RPA</th>
-    <td align="center" valign="middle" colspan="6"><img src="https://cdn.simpleicons.org/uipath/FA4616" width="24" alt="UiPath"/><br/><sub>UiPath</sub></td>
-    <td align="center" valign="middle" colspan="6"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate-Colored.svg" width="24" alt="Power Automate"/><br/><sub>Power Automate</sub></td>
+    <th colspan="12" width="50%" align="center" valign="middle">CSS Frameworks</th>
+    <th colspan="12" width="50%" align="center" valign="middle">Mobile Development</th>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">Mobile Development</th>
-    <td align="center" valign="middle" colspan="6"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/kotlin/kotlin-original.svg" width="24" alt="Kotlin"/><br/><sub>Kotlin</sub></td>
-    <td align="center" valign="middle" colspan="6"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/androidstudio/androidstudio-original.svg" width="24" alt="Android Studio"/><br/><sub>Android Studio</sub></td>
+    <td colspan="6" width="25.00%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/bootstrap/bootstrap-original.svg" width="24" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
+    <td colspan="6" width="25.00%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/tailwindcss/tailwindcss-original.svg" width="24" alt="Tailwind CSS"/><br/><sub>Tailwind CSS</sub></td>
+    <td colspan="6" width="25.00%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/kotlin/kotlin-original.svg" width="24" alt="Kotlin"/><br/><sub>Kotlin</sub></td>
+    <td colspan="6" width="25.00%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/androidstudio/androidstudio-original.svg" width="24" alt="Android Studio"/><br/><sub>Android Studio</sub></td>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">Testing &amp; QA</th>
-    <td align="center" valign="middle" colspan="4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/selenium/selenium-original.svg" width="24" alt="Selenium"/><br/><sub>Selenium</sub></td>
-    <td align="center" valign="middle" colspan="4"><img src="https://avatars.githubusercontent.com/u/2678858?s=200&v=4" width="24" alt="NUnit"/><br/><sub>NUnit</sub></td>
-    <td align="center" valign="middle" colspan="4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/pytest/pytest-original.svg" width="24" alt="PyTest"/><br/><sub>PyTest</sub></td>
+    <th colspan="12" width="50%" align="center" valign="middle">BI &amp; Data Integration</th>
+    <th colspan="12" width="50%" align="center" valign="middle">Automation &amp; RPA</th>
   </tr>
   <tr>
-    <th align="left" valign="middle" width="30%">Low-Code Platforms</th>
-    <td align="center" valign="middle" colspan="4"><img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" width="24" alt="FlutterFlow"/><br/><sub>FlutterFlow</sub></td>
-    <td align="center" valign="middle" colspan="4"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Apps-Colored.svg" width="24" alt="Power Apps"/><br/><sub>Power Apps</sub></td>
-    <td align="center" valign="middle" colspan="4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/oracle/oracle-original.svg" width="24" alt="Oracle APEX"/><br/><sub>Oracle APEX</sub></td>
+    <td colspan="6" width="25.00%" align="center" valign="middle"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="24" alt="Power BI"/><br/><sub>Power BI</sub></td>
+    <td colspan="6" width="25.00%" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="24" alt="SSIS"/><br/><sub>SSIS</sub></td>
+    <td colspan="6" width="25.00%" align="center" valign="middle"><img src="https://cdn.simpleicons.org/uipath/FA4616" width="24" alt="UiPath"/><br/><sub>UiPath</sub></td>
+    <td colspan="6" width="25.00%" align="center" valign="middle"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate-Colored.svg" width="24" alt="Power Automate"/><br/><sub>Power Automate</sub></td>
   </tr>
 </table>
 
