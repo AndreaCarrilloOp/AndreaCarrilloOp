@@ -181,7 +181,7 @@
 <!-- Lenguajes más usados -->
 <p align="center">
   <a href="https://github.com/stats-organization/github-readme-stats#top-languages-card">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaCarrilloOp&show_icons=true&locale=en&hide_title=true&layout=compact&theme=dracula" alt="Top Languages" />
+    <img height="140px" src="./assets/top-langs.svg" alt="Top Languages" />
   </a>
 </p>
 
@@ -190,7 +190,7 @@
   <p align="center">
     <!-- Estadísticas generales -->
     <a href="https://github.com/stats-organization/github-readme-stats" target="_blank">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AndreaCarrilloOp&show_icons=true&hide_title=true&locale=en&theme=dracula" alt="GitHub Stats"/>
+      <img height="150px" src="./assets/stats.svg" alt="GitHub Stats"/>
     </a>
     <!-- Racha de contribuciones -->
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
