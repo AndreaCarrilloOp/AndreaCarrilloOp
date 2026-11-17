@@ -197,15 +197,8 @@
   Natural Language Processing · spaCy · pdfplumber · information extraction · document automation
 </p>
 
-<!-- Lenguajes más usados -->
-<p align="center">
-  <a href="https://github.com/stats-organization/github-readme-stats#top-languages-card">
-    <img height="140px" src="./assets/top-langs.svg" alt="Top Languages" />
-  </a>
-</p>
-
+<h3>⚡ GitHub Activity</h3>
 <!-- Sección de Estadísticas GitHub -->
-  <h3>⚡ <b>My GitHub stats</b></h3>
   <p align="center">
     <!-- Estadísticas generales -->
     <a href="https://github.com/stats-organization/github-readme-stats" target="_blank">
@@ -216,6 +209,21 @@
       <img height="150px" src="https://streak-stats.demolab.com?user=AndreaCarrilloOp&theme=dracula&border_radius=6&border=FFFFFF" alt="GitHub Streak" />
     </a>
   </p>
+
+<!-- Lenguajes más usados -->
+<p align="center">
+  <a href="https://github.com/stats-organization/github-readme-stats#top-languages-card">
+    <img height="140px" src="./assets/top-langs.svg" alt="Top Languages" />
+  </a>
+</p>
+
+<!-- Sección de Trofeos de GitHub -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img height="150px" src="./assets/trophies.svg" alt="GitHub Trophies" />
+  </a>
+</p>
+
 <!-- Gráfico Pacman -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreaCarrilloOp/AndreaCarrilloOp/output/pacman-contribution-graph-dark.svg">
@@ -223,11 +231,3 @@
       <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/AndreaCarrilloOp/AndreaCarrilloOp/output/pacman-contribution-graph.svg" />
     </picture>
     <p align="left"><sub><a href="https://github.com/abozanona/pacman-contribution-graph" target="_blank">PACMAN - generado con abozanona/pacman-contribution-graph</a></sub></p>
-    
-<!-- Sección de Trofeos de GitHub -->
-<h3>🏆 <b>My GitHub Awards</b></h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="150px" src="./assets/trophies.svg" alt="GitHub Trophies" />
-  </a>
-</p>
