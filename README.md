@@ -223,11 +223,3 @@
       <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/AndreaCarrilloOp/AndreaCarrilloOp/output/pacman-contribution-graph.svg" />
     </picture>
     <p align="left"><sub><a href="https://github.com/abozanona/pacman-contribution-graph" target="_blank">PACMAN - generado con abozanona/pacman-contribution-graph</a></sub></p>
-    
-<!-- Sección de Trofeos de GitHub -->
-<h3>🏆 <b>My GitHub Awards</b></h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="150px" src="./assets/trophies.svg" alt="GitHub Trophies" />
-  </a>
-</p>
