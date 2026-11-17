@@ -19,9 +19,9 @@
 <!-- About Me -->
 <img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="180" align="right"/>
 
-<p> I'm a <strong>Software Developer</strong> with an academic background in Information Systems Engineering. </p>
+<p>I'm a <strong>Software Developer</strong> focused on backend development, distributed systems, database engineering, cloud computing, and process automation.</p>
 
-<p> I focus on <strong>backend development, distributed systems, database engineering, cloud computing, and process automation</strong>. </p>
+<p>I build <strong>REST APIs, asynchronous workflows, and database-driven applications</strong>, applying software engineering principles.</p>
 
 <!-- Contact Badges -->
 <p align="left">
@@ -80,6 +80,17 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/githubactions/githubactions-original.svg" width="32" alt="GitHub Actions"><br><sub>GitHub Actions</sub></td>
   </tr>
 </table>
+
+<h3>⚙️ Engineering Practices</h3>
+
+<p><strong>Software Design:</strong> OOP · SOLID · Design Patterns · Data Structures · Algorithms</p>
+<p><strong>Software Architecture:</strong> REST APIs · Microservices · Distributed Systems · Asynchronous Messaging</p>
+<p><strong>Software Quality:</strong> Automated Testing · CI/CD · Version Control</p>
+
+<h3>🌿 Applied NLP Focus</h3>
+<p>
+  Natural Language Processing · spaCy · pdfplumber · information extraction · document automation
+</p>
 
 <details>
   <summary><strong>Additional Technologies</strong></summary>
@@ -158,13 +169,6 @@
 </table>
 
 </details>
-
-<p><strong>Engineering Practices:</strong> OOP · SOLID · Design Patterns · REST APIs · Software Architecture · Microservices · CI/CD</p>
-
-<h3>🌿 Applied NLP Focus</h3>
-<p>
-  Natural Language Processing · spaCy · pdfplumber · information extraction · document automation
-</p>
 
 <!-- Lenguajes más usados -->
 <p align="center">
