@@ -17,34 +17,33 @@
 </p>
 
 <!-- About Me -->
-<div align="left">
-  <img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="120" align="right"/>
-  <p>
+<table width="100%">
+  <tr>
+    <td valign="middle">
+      <p>
     I'm a <strong>Software Developer</strong> with an academic background in Information Systems Engineering.
   </p>
-  <p>
+      <p>
     I focus on <strong>backend development, distributed systems, database engineering, cloud computing, and process automation</strong>.
   </p>
-  <!-- Contact Badges -->
+    </td>
+    <td align="center" valign="middle" width="120">
+      <img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="120"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Contact Badges -->
   <p align="center">
     <!-- Portfolio -->
-    <a href="https://andreacarrillo-portafolio.netlify.app/">
-      <img alt="Professional Portfolio" src="https://img.shields.io/badge/Portfolio-00913F?style=flat&logo=netlify&logoColor=white" height="22"/>
-    </a>
+    <a href="https://andreacarrillo-portafolio.netlify.app/"><img alt="Professional Portfolio" src="https://img.shields.io/badge/Portfolio-00913F?style=flat&logo=netlify&logoColor=white" height="22"/></a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank">
-      <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/>
-    </a>
+    <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/></a>
     <!-- Email -->
-    <a href="mailto:acarrillo.vlk@gmail.com">
-      <img alt="Email Andrea" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="22"/>
-    </a>
+    <a href="mailto:acarrillo.vlk@gmail.com"><img alt="Email Andrea" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="22"/></a>
     <!-- Discord -->
-    <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" title="User: valky_cr">
-      <img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=flat&logo=discord&logoColor=white" height="22"/>
-    </a>
+    <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" title="User: valky_cr"><img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=flat&logo=discord&logoColor=white" height="22"/></a>
   </p>
-</div>
 
 <!-- Credentials -->
 <p align="center"><sub>Certifications</sub></p>
