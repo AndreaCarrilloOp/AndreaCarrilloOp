@@ -186,7 +186,7 @@
 </p>
 
 <!-- Sección de Estadísticas GitHub -->
-  <h3>⚡ <b>My GitHub stats</h3>
+  <h3>⚡ <b>My GitHub stats</b></h3>
   <p align="center">
     <!-- Estadísticas generales -->
     <a href="https://github.com/stats-organization/github-readme-stats" target="_blank">
@@ -209,6 +209,6 @@
 <h3>🏆 <b>My GitHub Awards</b></h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=AndreaCarrilloOp&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
+    <img height="150px" src="https://github-profile-trophy-liard-delta.vercel.app/?username=AndreaCarrilloOp&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
   </a>
 </p>
