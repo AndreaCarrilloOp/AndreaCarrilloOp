@@ -70,16 +70,15 @@
   <li><strong>SC-900</strong> — Microsoft Certified: Security, Compliance, and Identity Fundamentals</li>
 </ul>
 
-<!-- Proyectos destacados -->
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
-    <h3>🚀 Highlight Projects</h3>
-    <ul>
-      <li>🐾 <strong>PetShop</strong> – Responsive e-commerce prototype built with HTML5, CSS3, Bootstrap, JavaScript, and Netlify</li>
-      <li>🧾 <strong>Institutional Shuttle</strong> – App for booking and managing seats in the institutional transport system, using Android & Firebase</li>
-    </ul>
-  </div>
-</div>
+<!-- Featured projects -->
+<h3>🚀 Featured Projects</h3>
+<ul>
+  <li><strong><a href="https://github.com/AndreaCarrilloOp/bookstore-RabbitMQ">Bookstore RabbitMQ</a></strong> — Distributed catalog with asynchronous writes, durable queues, and batch processing. <em>RabbitMQ · MongoDB · Vue · Serverless</em></li>
+  <li><strong><a href="https://github.com/AndreaCarrilloOp/bookstore-Redis">Bookstore Redis</a></strong> — Distributed catalog with Redis-backed queues and batch processing. <em>Redis Cloud · MongoDB · Vue</em></li>
+  <li><strong><a href="https://github.com/AndreaCarrilloOp/library-microfrontends-microservices">Distributed Library Platform</a></strong> — Independent microservices, microfrontends, databases, and cloud deployments. <em>PostgreSQL · Cloudflare Workers · Netlify · Vercel</em></li>
+  <li><strong><a href="https://github.com/AndreaCarrilloOp/docker-python-guide">Docker Python Guide</a></strong> — Practical learning project covering containerization, code quality, and CI/CD. <em>Python · FastAPI · Docker · GitHub Actions</em></li>
+  <li><strong><a href="https://github.com/AndreaCarrilloOp/CDstore-snipcart-nuxt">Sönglist – Music Store</a></strong> — Academic e-commerce application with a music catalog, search, filtering, and test-mode checkout. <em>Nuxt · Vue · Snipcart · Netlify</em></li>
+</ul>
 
 <h3>💻 Languages and Tools</h3>
 <table align="center">
