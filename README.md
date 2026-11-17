@@ -4,7 +4,7 @@
   <p>
     <img src="./assets/minecraft-turtle.gif" alt="Animated Minecraft baby turtle, left" width="80"/>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=100&lines=Hey+there!+I'm+Andrea;Software+Developer" alt="Hey there! I’m Andrea, Software Developer" width="340"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=72&lines=Hey+there!+I'm+Andrea;Software+Developer" alt="Hey there! I’m Andrea, Software Developer" width="340"/>
     </a>
   <img src="./assets/minecraft-turtle.gif" alt="Animated Minecraft baby turtle, right" width="80"/>
   </p>
@@ -13,7 +13,7 @@
 
 <!-- Contador de visitas -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AndreaCarrilloOp&label=Visitor%20Counter&color=00913F&style=for-the-badge" alt="Visitor Counter" height="28"/>
+  <img src="https://komarev.com/ghpvc/?username=AndreaCarrilloOp&label=Visitor%20Counter&color=00913F&style=flat" alt="Visitor Counter" height="20"/>
 </p>
 
 <!-- About Me -->
@@ -21,7 +21,7 @@
 
 <p>I'm a <strong>Software Developer</strong> focused on backend development, distributed systems, database engineering, cloud computing, and process automation.</p>
 
-<p>I build <strong>REST APIs, asynchronous workflows, and database-driven applications</strong>, applying software engineering principles.</p>
+<p>I build REST APIs, asynchronous workflows, and database-driven applications, applying software engineering principles.</p>
 
 <!-- Contact Badges -->
 <p align="left">
@@ -33,18 +33,18 @@
 
 <!-- Credentials -->
 <p align="left"><sub>Certifications</sub></p>
-<table align="left">
+<table>
   <tr>
-    <td align="center" valign="middle" width="68">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="46" height="46" alt="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"/></a><br/>
+    <td align="center" valign="middle">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="42" height="42" alt="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"/></a><br/>
       <sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential">AZ-900</a></sub>
     </td>
-    <td align="center" valign="middle" width="68">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="46" height="46" alt="GH-900 — GitHub Foundations — View credential"/></a><br/>
+    <td align="center" valign="middle">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="42" height="42" alt="GH-900 — GitHub Foundations — View credential"/></a><br/>
       <sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential">GH-900</a></sub>
     </td>
-    <td align="center" valign="middle" width="68">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="46" height="46" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"/></a><br/>
+    <td align="center" valign="middle">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="42" height="42" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"/></a><br/>
       <sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential">SC-900</a></sub>
     </td>
   </tr>
@@ -91,9 +91,20 @@
 
 <h3>⚙️ Engineering Practices</h3>
 
-<p><strong>Software Design:</strong> OOP · SOLID · Design Patterns · Data Structures · Algorithms</p>
-<p><strong>Software Architecture:</strong> REST APIs · Microservices · Distributed Systems · Asynchronous Messaging</p>
-<p><strong>Software Quality:</strong> Automated Testing · CI/CD · Version Control</p>
+<table width="100%">
+  <tr>
+    <th align="left" valign="middle" width="30%">Software Design</th>
+    <td>OOP · SOLID · Design Patterns · Data Structures · Algorithms</td>
+  </tr>
+  <tr>
+    <th align="left" valign="middle" width="30%">Software Architecture</th>
+    <td>REST APIs · Microservices · Distributed Systems · Asynchronous Messaging</td>
+  </tr>
+  <tr>
+    <th align="left" valign="middle" width="30%">Software Quality</th>
+    <td>Automated Testing · CI/CD · Version Control</td>
+  </tr>
+</table>
 
 <h3>🌿 Applied NLP Focus</h3>
 <p>
@@ -182,25 +193,25 @@
 
 </details>
 
-<!-- Lenguajes más usados -->
+<!-- Sección de Estadísticas GitHub -->
+<h3>⚡ GitHub Activity</h3>
 <p align="center">
+  <!-- Estadísticas generales -->
+  <a href="https://github.com/stats-organization/github-readme-stats" target="_blank">
+      <img width="374" src="./assets/stats.svg" alt="GitHub Stats"/>
+    </a>
+  <!-- Lenguajes más usados -->
   <a href="https://github.com/stats-organization/github-readme-stats#top-languages-card">
-    <img height="140px" src="./assets/top-langs.svg" alt="Top Languages" />
+    <img width="293" src="./assets/top-langs.svg" alt="Top Languages" />
   </a>
 </p>
+<p align="center">
+  <!-- Racha de contribuciones -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+      <img width="420" src="https://streak-stats.demolab.com?user=AndreaCarrilloOp&theme=dracula&border_radius=6&border=FFFFFF" alt="GitHub Streak" />
+    </a>
+</p>
 
-<!-- Sección de Estadísticas GitHub -->
-  <h3>⚡ <b>My GitHub stats</b></h3>
-  <p align="center">
-    <!-- Estadísticas generales -->
-    <a href="https://github.com/stats-organization/github-readme-stats" target="_blank">
-      <img height="150px" src="./assets/stats.svg" alt="GitHub Stats"/>
-    </a>
-    <!-- Racha de contribuciones -->
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-      <img height="150px" src="https://streak-stats.demolab.com?user=AndreaCarrilloOp&theme=dracula&border_radius=6&border=FFFFFF" alt="GitHub Streak" />
-    </a>
-  </p>
 <!-- Gráfico Pacman -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreaCarrilloOp/AndreaCarrilloOp/output/pacman-contribution-graph-dark.svg">
