@@ -1,14 +1,14 @@
 <!-- Encabezado animado con GIFs decorativos -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=header" alt="Header Wave" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=header" alt="" width="100%"/>
   <p>
-    <img src="./assets/minecraft-turtle.gif" alt="Turtle Left" width="80"/>
+    <img src="./assets/minecraft-turtle.gif" alt="Animated Minecraft baby turtle, left" width="80"/>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=100&lines=Hey+there!+I'm+Andrea;Software+Developer" alt="Typing SVG" width="340"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=100&lines=Hey+there!+I'm+Andrea;Software+Developer" alt="Hey there! I’m Andrea, Software Developer" width="340"/>
     </a>
-  <img src="./assets/minecraft-turtle.gif" alt="Turtle Right" width="80"/>
+  <img src="./assets/minecraft-turtle.gif" alt="Animated Minecraft baby turtle, right" width="80"/>
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=footer" alt="Footer Wave" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=footer" alt="" width="100%"/>
 </div>
 
 <!-- Contador de visitas -->
@@ -17,7 +17,7 @@
 </p>
 
 <!-- About Me -->
-<section align="justify">
+<div align="left">
   <p>
     👩‍💻 I'm <strong>Andrea Carrillo</strong>, a Software Developer based in Costa Rica with an academic background in Information Systems Engineering, focused on <strong>backend development, distributed systems, database engineering, and process automation</strong>.
   </p>
@@ -26,14 +26,7 @@
   </p>
   
 <!-- Imagen descriptiva: rustic coffee -->
-<div style="float: right; margin-left: 10px; margin-right: 10px; max-width: 200px; overflow: hidden; padding-right: 10px;">
-  <img 
-    src="./assets/Coffee%26Code.png" 
-    alt="rustic coffee" 
-    style="height: auto;" 
-    width="180" 
-    align="right">
-</div>
+<img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="180" align="right"/>
   
   <!-- Lista de intereses y temas -->
   <ul>
@@ -48,19 +41,19 @@
       <img alt="Professional Portfolio" src="https://img.shields.io/badge/Portfolio-00913F?style=plastic&logo=netlify&logoColor=white" height="25"/>
     </a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank" style="display:inline-block; margin-left:8px;">
-      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"  style="height:25px; width:auto;" />
+    <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank">
+      <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="25"/>
     </a>
     <!-- Email -->
-    <a href="mailto:acarrillo.vlk@gmail.com" style="display:inline-block;">
-      <img alt="Email Badge" src="https://img.shields.io/badge/acarrillo.vlk@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white"  style="height:25px; width:auto;" />
+    <a href="mailto:acarrillo.vlk@gmail.com">
+      <img alt="Email Andrea" src="https://img.shields.io/badge/acarrillo.vlk@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" height="25"/>
     </a>
     <!-- Discord -->
-    <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" style="display:inline-block;" title="User: valky_cr">
-      <img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=plastic&logo=discord&logoColor=white" style="height:25px; width:auto;" />
+    <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" title="User: valky_cr">
+      <img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=plastic&logo=discord&logoColor=white" height="25"/>
     </a>
   </p>
-  </section>
+</div>
 
 <!-- Certifications -->
 <h3>🎓 Certifications</h3>
@@ -170,7 +163,7 @@
   <tr>
     <!-- Herramientas de desarrollo -->
     <td valign="top">
-      <h4 align="center">🧪 Testing & QA</h4>
+      <h4 align="center">🧪 Testing &amp; QA</h4>
       <table align="center">
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postman/postman-original.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
@@ -182,13 +175,13 @@
     </td>
     <!-- Plataformas y Herramientas-->
     <td valign="top">
-      <h4 align="center">⚙️ Tools & Platforms</h4>
+      <h4 align="center">⚙️ Tools &amp; Platforms</h4>
       <table align="center">
         <tr>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/figma/figma-original.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/firebase/firebase-plain.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/azure/azure-original.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
-                    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" width="32" alt="Docker basics"><br><sub>Docker</sub></td>
+                    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" width="32" alt="Docker"><br><sub>Docker</sub></td>
                     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
           <td align="center"><img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" width="32" alt="FlutterFlow"><br><sub>FlutterFlow</sub></td>
         </tr>
