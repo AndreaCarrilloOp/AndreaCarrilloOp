@@ -77,11 +77,11 @@
       <h4 align="center">🎨 Frontend</h4>
       <table>
         <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" alt="HTML5"><br><sub>HTML5</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" alt="CSS3"><br><sub>CSS3</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td>
-                    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"><br><sub>React</sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32" alt="Bootstrap"><br><sub>Bootstrap</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/html5/html5-original-wordmark.svg" width="32" alt="HTML5"><br><sub>HTML5</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/css3/css3-original-wordmark.svg" width="32" alt="CSS3"><br><sub>CSS3</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td>
+                    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/react/react-original.svg" width="32" alt="React"><br><sub>React</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/bootstrap/bootstrap-original.svg" width="32" alt="Bootstrap"><br><sub>Bootstrap</sub></td>
         </tr>
       </table>
     </td>
@@ -90,11 +90,11 @@
       <h4 align="center">🛠️ Backend</h4>
       <table>
         <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
-          <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="32" alt="VB.NET"><br><sub>VB.NET</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/visualbasic/visualbasic-original.svg" width="32" alt="VB.NET"><br><sub>VB.NET</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
         </tr>
       </table>
     </td>
@@ -108,10 +108,10 @@
       <h4 align="left">🗄️ Database Management Systems (DBMS)</h4>
       <table>
         <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" alt="MySQL"><br><sub>MySQL</sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
-          <td align="center"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
-          <td align="center"><img src="https://avatars.githubusercontent.com/u/4430336?s=200&v=4" width="32" alt="Oracle"><br><sub>Oracle</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mysql/mysql-original.svg" width="32" alt="MySQL"><br><sub>MySQL</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/oracle/oracle-original.svg" width="32" alt="Oracle"><br><sub>Oracle</sub></td>
         </tr>
       </table>
     </td>
@@ -120,9 +120,9 @@
       <h4 align="center">🧱 Backend Frameworks</h4>
       <table>
         <tr>
-          <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="32" alt="Django"><br><sub>Django</sub></td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"><br><sub>FastAPI</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/django/django-plain.svg" width="32" alt="Django"><br><sub>Django</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/spring/spring-original.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"><br><sub>FastAPI</sub></td>
         </tr>
       </table>
     </td>
@@ -131,9 +131,9 @@
   <h4 align="center">🧪 Scientific Libraries</h4>
   <table>
     <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" alt="Pandas"><br><sub>Pandas</sub></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" alt="NumPy"><br><sub>NumPy</sub></td>
-      <td align="center"><img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" width="32" alt="Matplotlib"><br><sub>Matplotlib</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/pandas/pandas-original.svg" width="32" alt="Pandas"><br><sub>Pandas</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/numpy/numpy-original.svg" width="32" alt="NumPy"><br><sub>NumPy</sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/matplotlib/matplotlib-original.svg" width="32" alt="Matplotlib"><br><sub>Matplotlib</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="32" alt="SciPy"><br><sub>SciPy</sub></td>
     </tr>
   </table>
@@ -149,10 +149,10 @@
       <h4 align="center">🧪 Testing & QA</h4>
       <table align="center">
         <tr>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="32" alt="Selenium"><br><sub>Selenium</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postman/postman-original.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/selenium/selenium-original.svg" width="32" alt="Selenium"><br><sub>Selenium</sub></td>
           <td align="center"><img src="https://avatars.githubusercontent.com/u/2678858?s=200&v=4" width="32" alt="NUnit"><br><sub>NUnit</sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="32" alt="PyTest"><br><sub>PyTest</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/pytest/pytest-original.svg" width="32" alt="PyTest"><br><sub>PyTest</sub></td>
         </tr>
       </table>
     </td>
@@ -161,11 +161,11 @@
       <h4 align="center">⚙️ Tools & Platforms</h4>
       <table align="center">
         <tr>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td>
-          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
-                    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" alt="Docker basics"><br><sub>Docker</sub></td>
-                    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/figma/figma-original.svg" width="32" alt="Figma"><br><sub>Figma</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/firebase/firebase-plain.svg" width="32" alt="Firebase"><br><sub>Firebase</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/azure/azure-original.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
+                    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" width="32" alt="Docker basics"><br><sub>Docker</sub></td>
+                    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"><br><sub>Node.js</sub></td>
           <td align="center"><img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" width="32" alt="FlutterFlow"><br><sub>FlutterFlow</sub></td>
         </tr>
       </table>
