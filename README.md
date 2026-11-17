@@ -1,6 +1,6 @@
 <!-- Encabezado animado con GIFs decorativos -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=header" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=35&section=header" alt="" width="100%"/>
   <p>
     <img src="./assets/minecraft-turtle.gif" alt="Animated Minecraft baby turtle, left" width="80"/>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -8,65 +8,49 @@
     </a>
   <img src="./assets/minecraft-turtle.gif" alt="Animated Minecraft baby turtle, right" width="80"/>
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=footer" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=35&section=footer" alt="" width="100%"/>
 </div>
 
 <!-- Contador de visitas -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AndreaCarrilloOp&label=Visitor%20Counter&color=00913F&style=for-the-badge" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=AndreaCarrilloOp&label=Visitor%20Counter&color=00913F&style=flat" alt="Visitor Counter" />
 </p>
 
 <!-- About Me -->
 <div align="left">
+  <img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="120" align="right"/>
   <p>
-    👩‍💻 I'm <strong>Andrea Carrillo</strong>, a Software Developer based in Costa Rica with an academic background in Information Systems Engineering, focused on <strong>backend development, distributed systems, database engineering, and process automation</strong>.
+    I'm a <strong>Software Developer</strong> based in Costa Rica with an academic background in Information Systems Engineering.
   </p>
   <p>
-    I build software solutions using <strong>Python, C++, SQL</strong>, and modern development technologies, applying software architecture principles, design patterns, cloud services, and CI/CD practices.
+    I focus on <strong>backend development, distributed systems, database engineering, cloud computing, and process automation</strong>.
   </p>
-  
-<!-- Imagen descriptiva: rustic coffee -->
-<img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="180" align="right"/>
-  
-  <!-- Lista de intereses y temas -->
-  <ul>
-    <li>🌱 <strong>Learning:</strong> scalable architectures, cloud engineering, and software quality</li>
-    <li>💬 <strong>Ask me about:</strong> Python, SQL, backend development, or systems integration</li>
-    <li>📫 How to contact me: </li>
-  </ul>
   <!-- Contact Badges -->
   <p align="center">
     <!-- Portfolio -->
     <a href="https://andreacarrillo-portafolio.netlify.app/">
-      <img alt="Professional Portfolio" src="https://img.shields.io/badge/Portfolio-00913F?style=plastic&logo=netlify&logoColor=white" height="25"/>
+      <img alt="Professional Portfolio" src="https://img.shields.io/badge/Portfolio-00913F?style=flat&logo=netlify&logoColor=white" height="22"/>
     </a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank">
-      <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="25"/>
+      <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/>
     </a>
     <!-- Email -->
     <a href="mailto:acarrillo.vlk@gmail.com">
-      <img alt="Email Andrea" src="https://img.shields.io/badge/acarrillo.vlk@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white" height="25"/>
+      <img alt="Email Andrea" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="22"/>
     </a>
     <!-- Discord -->
     <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" title="User: valky_cr">
-      <img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=plastic&logo=discord&logoColor=white" height="25"/>
+      <img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=flat&logo=discord&logoColor=white" height="22"/>
     </a>
   </p>
 </div>
 
-<!-- Certifications -->
-<h3>🎓 Certifications</h3>
-
+<!-- Credentials -->
 <p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="78" alt="AZ-900 — Microsoft Certified: Azure Fundamentals"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/twitter_thumb_201604_image.png" width="78" alt="GH-900 — GitHub Foundations"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="78" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals"/></a>
-</p>
-<p align="center">
-  <sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4"><strong>AZ-900</strong></a> · Azure Fundamentals &nbsp;|&nbsp; <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4"><strong>GH-900</strong></a> · GitHub Foundations &nbsp;|&nbsp; <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4"><strong>SC-900</strong></a> · Security Fundamentals</sub>
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals"><img src="https://img.shields.io/badge/AZ--900-30363d?style=flat" height="22" alt="AZ-900 — Microsoft Certified: Azure Fundamentals"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations"><img src="https://img.shields.io/badge/GH--900-30363d?style=flat" height="22" alt="GH-900 — GitHub Foundations"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals"><img src="https://img.shields.io/badge/SC--900-30363d?style=flat" height="22" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals"/></a>
 </p>
 
 <h3>💻 Languages and Tools</h3>
