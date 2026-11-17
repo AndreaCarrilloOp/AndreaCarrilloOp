@@ -13,45 +13,37 @@
 
 <!-- Contador de visitas -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AndreaCarrilloOp&label=Visitor%20Counter&color=00913F&style=flat" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=AndreaCarrilloOp&label=Visitor%20Counter&color=00913F&style=flat" alt="Visitor Counter" height="28"/>
 </p>
 
 <!-- About Me -->
-<table width="100%">
-  <tr>
-    <td valign="middle">
-      <p>
-    I'm a <strong>Software Developer</strong> with an academic background in Information Systems Engineering.
-  </p>
-      <p>
-    I focus on <strong>backend development, distributed systems, database engineering, cloud computing, and process automation</strong>.
-  </p>
-    </td>
-    <td align="center" valign="middle" width="120">
-      <img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="120"/>
-    </td>
-  </tr>
-</table>
+<img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="180" align="right"/>
+
+<p> I'm a <strong>Software Developer</strong> with an academic background in Information Systems Engineering. </p>
+
+<p> I focus on <strong>backend development, distributed systems, database engineering, cloud computing, and process automation</strong>. </p>
 
 <!-- Contact Badges -->
-  <p align="center">
+  <p align="left">
     <!-- Portfolio -->
-    <a href="https://andreacarrillo-portafolio.netlify.app/"><img alt="Professional Portfolio" src="https://img.shields.io/badge/Portfolio-00913F?style=flat&logo=netlify&logoColor=white" height="22"/></a>
+    <a href="https://andreacarrillo-portafolio.netlify.app/"><img alt="Professional Portfolio" src="https://img.shields.io/badge/Portfolio-00913F?style=flat&logo=netlify&logoColor=white" height="28"/></a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"/></a>
+    <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28"/></a>
     <!-- Email -->
-    <a href="mailto:acarrillo.vlk@gmail.com"><img alt="Email Andrea" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="22"/></a>
+    <a href="mailto:acarrillo.vlk@gmail.com"><img alt="Email Andrea" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28"/></a>
     <!-- Discord -->
-    <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" title="User: valky_cr"><img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=flat&logo=discord&logoColor=white" height="22"/></a>
+    <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" title="User: valky_cr"><img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=flat&logo=discord&logoColor=white" height="28"/></a>
   </p>
 
 <!-- Credentials -->
-<p align="center"><sub>Certifications</sub></p>
-<p align="center">
+<p align="left"><sub>Certifications</sub></p>
+<p align="left">
   <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"><img src="./assets/certifications/az-900.svg" height="28" alt="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"/></a>
   <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential"><img src="./assets/certifications/gh-900.svg" height="28" alt="GH-900 — GitHub Foundations — View credential"/></a>
   <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"><img src="./assets/certifications/sc-900.svg" height="28" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"/></a>
 </p>
+
+<br clear="all"/>
 
 <h3>💻 Core Tech Stack</h3>
 
@@ -96,22 +88,108 @@
 <details>
   <summary><strong>Additional Technologies</strong></summary>
 
+<p align="center"><strong>Programming &amp; Backend</strong></p>
+
 <table align="center">
   <tr>
-    <td align="center" valign="top"><strong>Programming &amp; Backend</strong><br><sub>VB.NET · Django · Node.js</sub></td>
-    <td align="center" valign="top"><strong>Databases</strong><br><sub>Oracle</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/visualbasic/visualbasic-original.svg" width="32" alt="VB.NET"/><br><sub>VB.NET</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/django/django-plain.svg" width="32" alt="Django"/><br><sub>Django</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/><br><sub>Node.js</sub></td>
+  </tr>
+</table>
+
+<p align="center"><strong>Mobile Development</strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/kotlin/kotlin-original.svg" width="32" alt="Kotlin"/><br><sub>Kotlin</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/androidstudio/androidstudio-original.svg" width="32" alt="Android Studio"/><br><sub>Android Studio</sub></td>
+  </tr>
+</table>
+
+<p align="center"><strong>Databases</strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/oracle/oracle-original.svg" width="32" alt="Oracle"/><br><sub>Oracle</sub></td>
+  </tr>
+</table>
+
+<p align="center"><strong>Frontend Development</strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/html5/html5-original-wordmark.svg" width="32" alt="HTML5"/><br><sub>HTML5</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/css3/css3-original-wordmark.svg" width="32" alt="CSS3"/><br><sub>CSS3</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/react/react-original.svg" width="32" alt="React"/><br><sub>React</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vuejs/vuejs-original.svg" width="32" alt="Vue.js"/><br><sub>Vue.js</sub></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><strong>Frontend Development</strong><br><sub>HTML5 · CSS3 · React · Vue.js · Nuxt · Bootstrap · Vite · Tailwind CSS</sub></td>
-    <td align="center" valign="top"><strong>Cloud &amp; DevOps</strong><br><sub>Git · GitHub · Azure DevOps · Cloudflare · Netlify · Vercel</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nuxtjs/nuxtjs-original.svg" width="32" alt="Nuxt"/><br><sub>Nuxt</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/bootstrap/bootstrap-original.svg" width="32" alt="Bootstrap"/><br><sub>Bootstrap</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vitejs/vitejs-original.svg" width="32" alt="Vite"/><br><sub>Vite</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/tailwindcss/tailwindcss-original.svg" width="32" alt="Tailwind CSS"/><br><sub>Tailwind CSS</sub></td>
+  </tr>
+</table>
+
+<p align="center"><strong>Cloud &amp; DevOps</strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" width="32" alt="Git"/><br><sub>Git</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/github/github-original.svg" width="32" alt="GitHub"/><br><sub>GitHub</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/azuredevops/azuredevops-original.svg" width="32" alt="Azure DevOps"/><br><sub>Azure DevOps</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/cloudflare/cloudflare-original.svg" width="32" alt="Cloudflare"/><br><sub>Cloudflare</sub></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><strong>Data &amp; Automation</strong><br><sub>Power BI · SSIS · UiPath · Pandas · NumPy · Matplotlib · SciPy</sub></td>
-    <td align="center" valign="top"><strong>Testing &amp; QA</strong><br><sub>Selenium · NUnit · PyTest</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/netlify/netlify-original.svg" width="32" alt="Netlify"/><br><sub>Netlify</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vercel/vercel-original.svg" width="32" alt="Vercel"/><br><sub>Vercel</sub></td>
+  </tr>
+</table>
+
+<p align="center"><strong>Data &amp; Automation</strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="32" alt="Power BI"/><br><sub>Power BI</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="32" alt="SSIS"/><br><sub>SSIS</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.simpleicons.org/uipath/FA4616" width="32" alt="UiPath"/><br><sub>UiPath</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/pandas/pandas-original.svg" width="32" alt="Pandas"/><br><sub>Pandas</sub></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><strong>Tools &amp; Platforms</strong><br><sub>Figma · Firebase · FlutterFlow</sub></td>
-    <td align="center" valign="top"><strong>Low-Code Platforms</strong><br><sub>Power Apps · Power Automate · Oracle APEX</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/numpy/numpy-original.svg" width="32" alt="NumPy"/><br><sub>NumPy</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/matplotlib/matplotlib-original.svg" width="32" alt="Matplotlib"/><br><sub>Matplotlib</sub></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="32" alt="SciPy"/><br><sub>SciPy</sub></td>
+  </tr>
+</table>
+
+<p align="center"><strong>Testing &amp; QA</strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/selenium/selenium-original.svg" width="32" alt="Selenium"/><br><sub>Selenium</sub></td>
+    <td align="center" valign="middle"><img src="https://avatars.githubusercontent.com/u/2678858?s=200&v=4" width="32" alt="NUnit"/><br><sub>NUnit</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/pytest/pytest-original.svg" width="32" alt="PyTest"/><br><sub>PyTest</sub></td>
+  </tr>
+</table>
+
+<p align="center"><strong>Tools &amp; Platforms</strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/figma/figma-original.svg" width="32" alt="Figma"/><br><sub>Figma</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/firebase/firebase-plain.svg" width="32" alt="Firebase"/><br><sub>Firebase</sub></td>
+    <td align="center" valign="middle"><img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" width="32" alt="FlutterFlow"/><br><sub>FlutterFlow</sub></td>
+  </tr>
+</table>
+
+<p align="center"><strong>Low-Code Platforms</strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Apps-Colored.svg" width="32" alt="Power Apps"/><br><sub>Power Apps</sub></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate-Colored.svg" width="32" alt="Power Automate"/><br><sub>Power Automate</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/oracle/oracle-original.svg" width="32" alt="Oracle APEX"/><br><sub>Oracle APEX</sub></td>
   </tr>
 </table>
 
