@@ -20,7 +20,7 @@
 <div align="left">
   <img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="120" align="right"/>
   <p>
-    I'm a <strong>Software Developer</strong> based in Costa Rica with an academic background in Information Systems Engineering.
+    I'm a <strong>Software Developer</strong> with an academic background in Information Systems Engineering.
   </p>
   <p>
     I focus on <strong>backend development, distributed systems, database engineering, cloud computing, and process automation</strong>.
@@ -66,14 +66,18 @@
   </tr>
 </table>
 
-<p align="center"><strong>Backend &amp; Databases</strong></p>
+<p align="center"><strong>Backend, Databases &amp; API Testing</strong></p>
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"><br><sub>FastAPI</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="32" alt=".NET"><br><sub>.NET</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/spring/spring-original.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postman/postman-original.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mysql/mysql-original.svg" width="32" alt="MySQL"><br><sub>MySQL</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"><br><sub>MongoDB</sub></td>
   </tr>
 </table>
@@ -95,7 +99,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="top"><strong>Programming &amp; Backend</strong><br><sub>VB.NET · Django · Node.js</sub></td>
-    <td align="center" valign="top"><strong>Databases</strong><br><sub>MySQL · Oracle</sub></td>
+    <td align="center" valign="top"><strong>Databases</strong><br><sub>Oracle</sub></td>
   </tr>
   <tr>
     <td align="center" valign="top"><strong>Frontend Development</strong><br><sub>HTML5 · CSS3 · React · Vue.js · Nuxt · Bootstrap · Vite · Tailwind CSS</sub></td>
@@ -103,10 +107,11 @@
   </tr>
   <tr>
     <td align="center" valign="top"><strong>Data &amp; Automation</strong><br><sub>Power BI · SSIS · UiPath · Pandas · NumPy · Matplotlib · SciPy</sub></td>
-    <td align="center" valign="top"><strong>Testing &amp; QA</strong><br><sub>Postman · Selenium · NUnit · PyTest</sub></td>
+    <td align="center" valign="top"><strong>Testing &amp; QA</strong><br><sub>Selenium · NUnit · PyTest</sub></td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="2"><strong>Tools &amp; Platforms</strong><br><sub>Figma · Firebase · FlutterFlow</sub></td>
+    <td align="center" valign="top"><strong>Tools &amp; Platforms</strong><br><sub>Figma · Firebase · FlutterFlow</sub></td>
+    <td align="center" valign="top"><strong>Low-Code Platforms</strong><br><sub>Power Apps · Power Automate · Oracle APEX</sub></td>
   </tr>
 </table>
 
