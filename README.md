@@ -60,20 +60,20 @@
 <table align="center">
   <tr>
     <td align="center" valign="top" width="175">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4">
         <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100" height="100" alt="Microsoft Certified: Azure Fundamentals"/>
         <br><strong>AZ-900</strong>
       </a>
       <br><sub>Azure Fundamentals</sub>
-      <br><sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4">View credential</a></sub>
+      <br><sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4">View credential</a></sub>
     </td>
     <td align="center" valign="top" width="175">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4">
         <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/twitter_thumb_201604_image.png" width="100" height="100" alt="GitHub Foundations"/>
         <br><strong>GH-900</strong>
       </a>
       <br><sub>GitHub Foundations</sub>
-      <br><sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4">View credential</a></sub>
+      <br><sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4">View credential</a></sub>
     </td>
     <td align="center" valign="top" width="175">
       <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4">
