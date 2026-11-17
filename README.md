@@ -209,6 +209,6 @@
 <h3>🏆 <b>My GitHub Awards</b></h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="150px" src="https://github-profile-trophy-liard-delta.vercel.app/?username=AndreaCarrilloOp&theme=algolia&margin-w=5&rank=SECRET,S,A,B" alt="GitHub Trophies" />
+    <img height="150px" src="./assets/trophies.svg" alt="GitHub Trophies" />
   </a>
 </p>
