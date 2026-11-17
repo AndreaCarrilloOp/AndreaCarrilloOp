@@ -54,41 +54,40 @@
 
 <h3>💻 Core Tech Stack</h3>
 
-<p align="center"><strong>Programming Languages</strong></p>
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td>
-  </tr>
-</table>
-
-<p align="center"><strong>Backend, Databases &amp; API Testing</strong></p>
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"><br><sub>FastAPI</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="32" alt=".NET"><br><sub>.NET</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/spring/spring-original.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postman/postman-original.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
+    <th align="center" colspan="6" width="50%">Programming Languages</th>
+    <th align="center" colspan="6" width="50%">Backend &amp; API Testing</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mysql/mysql-original.svg" width="32" alt="MySQL"><br><sub>MySQL</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"><br><sub>MongoDB</sub></td>
+    <td align="center" valign="middle" colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
+    <td align="center" valign="middle" colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
+    <td align="center" valign="middle" colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"><br><sub>FastAPI</sub></td>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="32" alt=".NET"><br><sub>.NET</sub></td>
   </tr>
-</table>
-
-<p align="center"><strong>Cloud &amp; Distributed Systems</strong></p>
-<table align="center">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/azure/azure-original.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" width="32" alt="Docker"><br><sub>Docker</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/rabbitmq/rabbitmq-original.svg" width="32" alt="RabbitMQ"><br><sub>RabbitMQ</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/redis/redis-original.svg" width="32" alt="Redis"><br><sub>Redis</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/githubactions/githubactions-original.svg" width="32" alt="GitHub Actions"><br><sub>GitHub Actions</sub></td>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/spring/spring-original.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postman/postman-original.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
+  </tr>
+  <tr>
+    <th align="center" colspan="6" width="50%">Databases</th>
+    <th align="center" colspan="6" width="50%">Cloud &amp; Distributed Systems</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
+    <td align="center" valign="middle" colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/azure/azure-original.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
+    <td align="center" valign="middle" colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" width="32" alt="Docker"><br><sub>Docker</sub></td>
+    <td align="center" valign="middle" colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/rabbitmq/rabbitmq-original.svg" width="32" alt="RabbitMQ"><br><sub>RabbitMQ</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mysql/mysql-original.svg" width="32" alt="MySQL"><br><sub>MySQL</sub></td>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"><br><sub>MongoDB</sub></td>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/redis/redis-original.svg" width="32" alt="Redis"><br><sub>Redis</sub></td>
+    <td align="center" valign="middle" colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/githubactions/githubactions-original.svg" width="32" alt="GitHub Actions"><br><sub>GitHub Actions</sub></td>
   </tr>
 </table>
 
