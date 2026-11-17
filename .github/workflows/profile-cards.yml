@@ -42,74 +42,10 @@ jobs:
           path: assets/top-langs.svg
           token: ${{ github.token }}
           fail_on_error: true
-      - name: Generate trophies
-        id: trophies
-        continue-on-error: true
-        uses: soulteary/github-profile-trophy-action@125fa2a58eb7feac88ee09c9fd4acad45c7c6987
-        with:
-          options: username=${{ github.repository_owner }}&theme=algolia&margin-w=5&rank=SECRET,S,A,B
-          path: assets/trophies.svg
-          token: ${{ secrets.PROFILE_STATS_TOKEN }}
-      - name: Fetch public trophy card
-        id: trophy_fallback
-        if: steps.trophies.outcome == 'failure'
-        continue-on-error: true
-        env:
-          PROFILE_USER: ${{ github.repository_owner }}
-        run: |
-          python - <<'PY'
-          import os
-          from pathlib import Path
-          from urllib.parse import urlencode
-          from urllib.request import Request, urlopen
-          from xml.etree import ElementTree as ET
-
-          params = urlencode({
-              "username": os.environ["PROFILE_USER"],
-              "theme": "algolia",
-              "margin-w": "5",
-              "rank": "SECRET,S,A,B",
-          })
-          hosts = (
-              "https://github-profile-trophy-orcin-eta.vercel.app/",
-              "https://github-profile-trophy-reiyua-mirror.vercel.app/",
-              "https://github-profile-trophy-fork-two.vercel.app/",
-          )
-          for host in hosts:
-              try:
-                  req = Request(host + "?" + params, headers={"User-Agent": "GitHub-Profile-Cards", "Accept": "image/svg+xml"})
-                  with urlopen(req, timeout=20) as response:
-                      data = response.read(1_000_001)
-                  if len(data) > 1_000_000 or b"<!DOCTYPE" in data.upper() or b"<!ENTITY" in data.upper():
-                      raise ValueError("Invalid SVG")
-                  root = ET.fromstring(data)
-                  if root.tag != "{http://www.w3.org/2000/svg}svg":
-                      raise ValueError("Not SVG")
-                  labels = " ".join(root.itertext()).lower()
-                  if not any(label in labels for label in ("commits", "repositories", "followers", "pullrequest", "pull request", "experience", "multilanguage", "stars", "issues", "reviews")):
-                      raise ValueError("No recognizable trophy labels")
-                  if any(label in labels for label in ("something went wrong", "rate limit", "bad credentials", "error fetching", "deployment_disabled")):
-                      raise ValueError("Error card")
-                  for elem in root.iter():
-                      if elem.tag.split("}")[-1].lower() in {"script", "foreignobject", "iframe", "image"}:
-                          raise ValueError("Unsupported SVG content")
-                      for attr, value in elem.attrib.items():
-                          local = attr.split("}")[-1].lower()
-                          if local.startswith("on") or (local == "href" and not value.startswith("#")):
-                              raise ValueError("External or active SVG content")
-                  Path("assets/trophies.svg").write_bytes(data)
-                  print("Trophy card retrieved from", host)
-                  break
-              except Exception as error:
-                  print(host, type(error).__name__, str(error))
-          else:
-              raise SystemExit("No valid trophy card; configure PROFILE_STATS_TOKEN.")
-          PY
       - name: Publish successful cards
         env:
           STATS: ${{ steps.stats.outcome }}
           LANGUAGES: ${{ steps.languages.outcome }}
-          TROPHIES: ${{ steps.trophies.outcome == 'success' && 'success' || steps.trophy_fallback.outcome }}
         run: |
           python - <<'PY'
           import os
@@ -123,7 +59,6 @@ jobs:
           cards = [
               ("STATS", "assets/stats.svg", "GitHub Stats"),
               ("LANGUAGES", "assets/top-langs.svg", "Top Languages"),
-              ("TROPHIES", "assets/trophies.svg", "GitHub Trophies"),
           ]
           for outcome, path, alt in cards:
               file = Path(path)
@@ -155,5 +90,5 @@ jobs:
           git pull --rebase origin main
           git push origin HEAD:main
       - name: Check card generation
-        if: steps.stats.outcome != 'success' || steps.languages.outcome != 'success' || (steps.trophies.outcome != 'success' && steps.trophy_fallback.outcome != 'success')
+        if: steps.stats.outcome != 'success' || steps.languages.outcome != 'success'
         run: exit 1
