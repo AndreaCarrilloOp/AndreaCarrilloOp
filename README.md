@@ -25,21 +25,30 @@
 
 <!-- Contact Badges -->
 <p align="left">
-  <a href="https://andreacarrillo-portafolio.netlify.app/"><img alt="Professional Portfolio" src="./assets/contact/portfolio.svg" width="83" height="28"/></a>
-  <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank"><img alt="Connect on LinkedIn" src="./assets/contact/linkedin.svg" width="85" height="28"/></a>
-  <a href="mailto:acarrillo.vlk@gmail.com"><img alt="Email Andrea" src="./assets/contact/email.svg" width="68" height="28"/></a>
-  <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" title="User: valky_cr"><img alt="CoffeeTech Discord" src="./assets/contact/coffeetech.svg" width="96" height="28"/></a>
+  <a href="https://andreacarrillo-portafolio.netlify.app/"><img alt="Professional Portfolio" src="https://img.shields.io/badge/Portfolio-00913F?style=plastic&logo=netlify&logoColor=white" height="28"/></a>
+  <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="mailto:acarrillo.vlk@gmail.com"><img alt="Email Andrea" src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="28"/></a>
+  <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" title="User: valky_cr"><img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=plastic&logo=discord&logoColor=white" height="28"/></a>
 </p>
 
 <!-- Credentials -->
 <p align="left"><sub>Certifications</sub></p>
-<p align="left">
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="46" height="46" alt="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"/> <sub>AZ-900</sub></a>
-  &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="46" height="46" alt="GH-900 — GitHub Foundations — View credential"/> <sub>GH-900</sub></a>
-  &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="46" height="46" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"/> <sub>SC-900</sub></a>
-</p>
+<table align="left">
+  <tr>
+    <td align="center" valign="middle" width="68">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="46" height="46" alt="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"/></a><br/>
+      <sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential">AZ-900</a></sub>
+    </td>
+    <td align="center" valign="middle" width="68">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="46" height="46" alt="GH-900 — GitHub Foundations — View credential"/></a><br/>
+      <sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential">GH-900</a></sub>
+    </td>
+    <td align="center" valign="middle" width="68">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="46" height="46" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"/></a><br/>
+      <sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential">SC-900</a></sub>
+    </td>
+  </tr>
+</table>
 
 <br clear="all"/>
 
