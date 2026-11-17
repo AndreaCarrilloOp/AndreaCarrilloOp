@@ -62,6 +62,14 @@
   </p>
   </section>
 
+<!-- Certifications -->
+<h3>🎓 Certifications</h3>
+<ul>
+  <li><strong>AZ-900</strong> — Microsoft Certified: Azure Fundamentals</li>
+  <li><strong>GH-900</strong> — GitHub Foundations</li>
+  <li><strong>SC-900</strong> — Microsoft Certified: Security, Compliance, and Identity Fundamentals</li>
+</ul>
+
 <!-- Proyectos destacados -->
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
