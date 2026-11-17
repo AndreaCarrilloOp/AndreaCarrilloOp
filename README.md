@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=header" alt="Header Wave" width="100%"/>
   <p>
     <img src="./assets/minecraft-turtle.gif" alt="Turtle Left" width="80"/>
-    <a href="https://git.io/typing-svg">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=100&lines=Hey+there!+I'm+Andrea;Software+Developer" alt="Typing SVG" width="340"/>
     </a>
   <img src="./assets/minecraft-turtle.gif" alt="Turtle Right" width="80"/>
@@ -27,7 +27,7 @@
 <!-- Imagen descriptiva: rustic coffee -->
 <div style="float: right; margin-left: 10px; margin-right: 10px; max-width: 200px; overflow: hidden; padding-right: 10px;">
   <img 
-    src="https://github.com/AndreaCarrilloOp/AndreaCarrilloOp/blob/main/assets/Coffee%26Code.png?raw=true" 
+    src="./assets/Coffee%26Code.png" 
     alt="rustic coffee" 
     style="height: auto;" 
     width="180" 
@@ -180,7 +180,7 @@
 
 <!-- Lenguajes más usados -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card">
+  <a href="https://github.com/stats-organization/github-readme-stats#top-languages-card">
     <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaCarrilloOp&show_icons=true&locale=en&hide_title=true&layout=compact&theme=dracula" alt="Top Languages" />
   </a>
 </p>
@@ -189,11 +189,11 @@
   <h3>⚡ <b>My GitHub stats</h3>
   <p align="center">
     <!-- Estadísticas generales -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <a href="https://github.com/stats-organization/github-readme-stats" target="_blank">
       <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AndreaCarrilloOp&show_icons=true&hide_title=true&locale=en&theme=dracula" alt="GitHub Stats"/>
     </a>
     <!-- Racha de contribuciones -->
-    <a href="https://git.io/streak-stats" target="_blank">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
       <img height="150px" src="https://streak-stats.demolab.com?user=AndreaCarrilloOp&theme=dracula&border_radius=6&border=FFFFFF" alt="GitHub Streak" />
     </a>
   </p>
@@ -203,7 +203,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreaCarrilloOp/AndreaCarrilloOp/output/pacman-contribution-graph.svg">
       <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/AndreaCarrilloOp/AndreaCarrilloOp/output/pacman-contribution-graph.svg" />
     </picture>
-    <p align="left"><sub><a href="https://github.com/abozanona/abozanona" target="_blank">PACMAN - generado con abozanona/snk</a></sub></p>
+    <p align="left"><sub><a href="https://github.com/abozanona/pacman-contribution-graph" target="_blank">PACMAN - generado con abozanona/pacman-contribution-graph</a></sub></p>
     
 <!-- Sección de Trofeos de GitHub -->
 <h3>🏆 <b>My GitHub Awards</b></h3>
