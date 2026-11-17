@@ -34,9 +34,11 @@
 <!-- Credentials -->
 <p align="left"><sub>Certifications</sub></p>
 <p align="left">
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"><img src="./assets/certifications/az-900.svg" height="28" alt="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"/></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential"><img src="./assets/certifications/gh-900.svg" height="28" alt="GH-900 — GitHub Foundations — View credential"/></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"><img src="./assets/certifications/sc-900.svg" height="28" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="46" height="46" alt="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"/> <sub>AZ-900</sub></a>
+  &nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="46" height="46" alt="GH-900 — GitHub Foundations — View credential"/> <sub>GH-900</sub></a>
+  &nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="46" height="46" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"/> <sub>SC-900</sub></a>
 </p>
 
 <br clear="all"/>
