@@ -47,10 +47,11 @@
 </div>
 
 <!-- Credentials -->
+<p align="center"><sub>Certifications</sub></p>
 <p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals"><img src="https://img.shields.io/badge/AZ--900-30363d?style=flat" height="22" alt="AZ-900 — Microsoft Certified: Azure Fundamentals"/></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations"><img src="https://img.shields.io/badge/GH--900-30363d?style=flat" height="22" alt="GH-900 — GitHub Foundations"/></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals"><img src="https://img.shields.io/badge/SC--900-30363d?style=flat" height="22" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"><img src="./assets/certifications/az-900.svg" height="28" alt="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential"><img src="./assets/certifications/gh-900.svg" height="28" alt="GH-900 — GitHub Foundations — View credential"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"><img src="./assets/certifications/sc-900.svg" height="28" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"/></a>
 </p>
 
 <h3>💻 Core Tech Stack</h3>
