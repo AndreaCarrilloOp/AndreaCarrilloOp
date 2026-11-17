@@ -94,6 +94,12 @@
                     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/react/react-original.svg" width="32" alt="React"><br><sub>React</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/bootstrap/bootstrap-original.svg" width="32" alt="Bootstrap"><br><sub>Bootstrap</sub></td>
         </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vuejs/vuejs-original.svg" width="32" alt="Vue.js"><br><sub>Vue.js</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nuxtjs/nuxtjs-original.svg" width="32" alt="Nuxt"><br><sub>Nuxt</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vitejs/vitejs-original.svg" width="32" alt="Vite"><br><sub>Vite</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/tailwindcss/tailwindcss-original.svg" width="32" alt="Tailwind CSS"><br><sub>Tailwind CSS</sub></td>
+        </tr>
       </table>
     </td>
     <!-- Backend -->
@@ -124,6 +130,10 @@
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/oracle/oracle-original.svg" width="32" alt="Oracle"><br><sub>Oracle</sub></td>
         </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"><br><sub>MongoDB</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/redis/redis-original.svg" width="32" alt="Redis"><br><sub>Redis</sub></td>
+        </tr>
       </table>
     </td>
     <!-- Tabla de Frameworks -->
@@ -134,6 +144,9 @@
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/django/django-plain.svg" width="32" alt="Django"><br><sub>Django</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/spring/spring-original.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"><br><sub>FastAPI</sub></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="32" alt=".NET"><br><sub>.NET</sub></td>
         </tr>
       </table>
     </td>
@@ -183,6 +196,52 @@
     </td>
   </tr>
 </table>
+
+<table align="center">
+  <tr>
+    <td valign="top">
+      <h4 align="center">☁️ Cloud &amp; DevOps</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" width="32" alt="Git"><br><sub>Git</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/github/github-original.svg" width="32" alt="GitHub"><br><sub>GitHub</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/githubactions/githubactions-original.svg" width="32" alt="GitHub Actions"><br><sub>GitHub Actions</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/azuredevops/azuredevops-original.svg" width="32" alt="Azure DevOps"><br><sub>Azure DevOps</sub></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/linux/linux-original.svg" width="32" alt="Linux"><br><sub>Linux</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/netlify/netlify-original.svg" width="32" alt="Netlify"><br><sub>Netlify</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vercel/vercel-original.svg" width="32" alt="Vercel"><br><sub>Vercel</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/cloudflare/cloudflare-original.svg" width="32" alt="Cloudflare"><br><sub>Cloudflare</sub></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      <h4 align="center">🔗 Distributed Systems</h4>
+      <table>
+        <tr>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/rabbitmq/rabbitmq-original.svg" width="32" alt="RabbitMQ"><br><sub>RabbitMQ</sub></td>
+          <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/redis/redis-original.svg" width="32" alt="Redis"><br><sub>Redis</sub></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      <h4 align="center">📊 Data &amp; Automation</h4>
+      <table>
+        <tr>
+          <td align="center">Power BI</td>
+          <td align="center">SSIS</td>
+        </tr>
+        <tr>
+          <td align="center">spaCy</td>
+          <td align="center">UiPath</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<p><strong>Engineering Practices:</strong> OOP · SOLID · Design Patterns · REST APIs · Software Architecture · Microservices · CI/CD</p>
 
 <h3>🌿 Applied NLP Focus</h3>
 <p>
