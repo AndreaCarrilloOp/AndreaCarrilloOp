@@ -19,9 +19,10 @@
 <!-- About Me -->
 <section align="justify">
   <p>
-    👩‍💻 I'm <strong>Andrea Carrillo</strong>, an Information Systems Engineering student focused on
-    <strong>software development, relational databases, functional validation of applications</strong>, and <strong>process automation</strong>.
-    I have practical experience with <strong>C++, Python, SQL, Postman</strong>, and cloud tools like <strong>Azure.</strong>
+    👩‍💻 I'm <strong>Andrea Carrillo</strong>, a Software Developer based in Costa Rica with an academic background in Information Systems Engineering, focused on <strong>backend development, distributed systems, database engineering, and process automation</strong>.
+  </p>
+  <p>
+    I build software solutions using <strong>Python, C++, SQL</strong>, and modern development technologies, applying software architecture principles, design patterns, cloud services, and CI/CD practices.
   </p>
   
 <!-- Imagen descriptiva: rustic coffee -->
@@ -36,9 +37,8 @@
   
   <!-- Lista de intereses y temas -->
   <ul>
-    <li>🔭 <strong>Currently working on:</strong> an NLP proof of concept for proforma request structuring</li>
-    <li>🌱 <strong>Learning:</strong> software quality, API testing, FastAPI, and document automation</li>
-    <li>💬 <strong>Ask me about:</strong> Python, SQL, Postman, or backend development</li>
+    <li>🌱 <strong>Learning:</strong> scalable architectures, cloud engineering, and software quality</li>
+    <li>💬 <strong>Ask me about:</strong> Python, SQL, backend development, or systems integration</li>
     <li>📫 How to contact me: </li>
   </ul>
   <!-- Contact Badges -->
