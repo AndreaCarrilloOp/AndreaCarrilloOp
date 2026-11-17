@@ -48,8 +48,8 @@
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"  style="height:25px; width:auto;" />
     </a>
     <!-- Email -->
-    <a href="mailto:valkstack@gmail.com" style="display:inline-block;">
-      <img alt="Email Badge" src="https://img.shields.io/badge/valkstack@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white"  style="height:25px; width:auto;" />
+    <a href="mailto:acarrillo.vlk@gmail.com" style="display:inline-block;">
+      <img alt="Email Badge" src="https://img.shields.io/badge/acarrillo.vlk@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white"  style="height:25px; width:auto;" />
     </a>
     <!-- Discord -->
     <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" style="display:inline-block;" title="User: valky_cr">
