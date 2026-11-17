@@ -1,0 +1,104 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate stats
+        id: stats
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&locale=en&theme=dracula
+          path: assets/stats.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+      - name: Generate languages
+        id: languages
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&show_icons=true&locale=en&hide_title=true&layout=compact&theme=dracula
+          path: assets/top-langs.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+      - name: Generate trophies
+        id: trophies
+        continue-on-error: true
+        uses: soulteary/github-profile-trophy-action@125fa2a58eb7feac88ee09c9fd4acad45c7c6987
+        with:
+          options: username=${{ github.repository_owner }}&theme=algolia&margin-w=5&rank=SECRET,S,A,B
+          path: assets/trophies.svg
+          token: ${{ github.token }}
+      - name: Publish successful cards
+        env:
+          STATS: ${{ steps.stats.outcome }}
+          LANGUAGES: ${{ steps.languages.outcome }}
+          TROPHIES: ${{ steps.trophies.outcome }}
+        run: |
+          python - <<'PY'
+          import os
+          import re
+          import subprocess
+          from pathlib import Path
+          from xml.etree import ElementTree
+
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+          cards = [
+              ("STATS", "assets/stats.svg", "GitHub Stats"),
+              ("LANGUAGES", "assets/top-langs.svg", "Top Languages"),
+              ("TROPHIES", "assets/trophies.svg", "GitHub Trophies"),
+          ]
+          for outcome, path, alt in cards:
+              file = Path(path)
+              valid = False
+              if os.environ[outcome] == "success" and file.is_file():
+                  try:
+                      root = ElementTree.parse(file).getroot()
+                      valid = root.tag.split("}")[-1] == "svg"
+                  except ElementTree.ParseError:
+                      pass
+              if not valid:
+                  if subprocess.run(["git", "ls-files", "--error-unmatch", path], capture_output=True).returncode == 0:
+                      subprocess.run(["git", "restore", "--", path], check=True)
+                  else:
+                      file.unlink(missing_ok=True)
+                  continue
+              pattern = r'(<img\b[^>]*\bsrc=")[^"]+("[^>]*\balt="' + re.escape(alt) + r'"[^>]*>)'
+              content = re.sub(pattern, lambda m: m[1] + "./" + path + m[2], content)
+              subprocess.run(["git", "add", "--", path], check=True)
+          readme.write_text(content, encoding="utf-8")
+          PY
+          git add README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "update: refresh profile cards"
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: Check card generation
+        if: steps.stats.outcome != 'success' || steps.languages.outcome != 'success' || steps.trophies.outcome != 'success'
+        run: exit 1
