@@ -43,6 +43,10 @@
   </ul>
   <!-- Contact Badges -->
   <p align="center">
+    <!-- Portfolio -->
+    <a href="https://andreacarrillo-portafolio.netlify.app/">
+      <img alt="Professional Portfolio" src="https://img.shields.io/badge/Portfolio-00913F?style=plastic&logo=netlify&logoColor=white" height="25"/>
+    </a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank" style="display:inline-block; margin-left:8px;">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"  style="height:25px; width:auto;" />
