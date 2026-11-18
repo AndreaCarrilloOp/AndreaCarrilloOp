@@ -89,28 +89,6 @@
   </tr>
 </table>
 
-<h3>⚙️ Engineering Practices</h3>
-
-<table width="734">
-  <tr>
-    <th align="left" valign="middle" width="193">Software Design</th>
-    <td width="487">OOP · SOLID · Design Patterns · Data Structures · Algorithms</td>
-  </tr>
-  <tr>
-    <th align="left" valign="middle" width="193">Software Architecture</th>
-    <td width="487">REST APIs · Microservices · Distributed Systems · Asynchronous Messaging</td>
-  </tr>
-  <tr>
-    <th align="left" valign="middle" width="193">Software Quality</th>
-    <td width="487">Automated Testing · CI/CD · Version Control</td>
-  </tr>
-</table>
-
-<h3>🌿 Applied NLP Focus</h3>
-<p>
-  Natural Language Processing · spaCy · pdfplumber · information extraction · document automation
-</p>
-
 <details>
   <summary><strong>Additional Technologies</strong></summary>
 
@@ -205,6 +183,28 @@
 </table>
 
 </details>
+
+<h3>⚙️ Engineering Practices</h3>
+
+<table width="734">
+  <tr>
+    <th align="left" valign="middle" width="193">Software Design</th>
+    <td width="487">OOP · SOLID · Design Patterns · Data Structures · Algorithms</td>
+  </tr>
+  <tr>
+    <th align="left" valign="middle" width="193">Software Architecture</th>
+    <td width="487">REST APIs · Microservices · Distributed Systems · Asynchronous Messaging</td>
+  </tr>
+  <tr>
+    <th align="left" valign="middle" width="193">Software Quality</th>
+    <td width="487">Automated Testing · CI/CD · Version Control</td>
+  </tr>
+</table>
+
+<h3>🌿 Applied NLP Focus</h3>
+<p>
+  Natural Language Processing · spaCy · pdfplumber · information extraction · document automation
+</p>
 
 <!-- Sección de Estadísticas GitHub -->
 <h3>⚡ GitHub Activity</h3>
