@@ -1,13 +1,13 @@
 <!-- Encabezado animado con GIFs decorativos -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=header" alt="" width="100%"/>
-  <p>
-    <img src="./assets/minecraft-turtle.gif" alt="Animated Minecraft baby turtle, left" width="80"/>
+  <div>
+    <img src="./assets/minecraft-turtle.gif" alt="Animated Minecraft baby turtle, left" width="64"/>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=72&lines=Hey+there!+I'm+Andrea;Software+Developer" alt="Hey there! I’m Andrea, Software Developer" width="340"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Bright&size=22&pause=1000&color=00913F&background=20AFBA00&center=true&vCenter=true&width=350&height=60&lines=Hey+there!+I'm+Andrea;Software+Developer" alt="Hey there! I’m Andrea, Software Developer" width="320"/>
     </a>
-  <img src="./assets/minecraft-turtle.gif" alt="Animated Minecraft baby turtle, right" width="80"/>
-  </p>
+  <img src="./assets/minecraft-turtle.gif" alt="Animated Minecraft baby turtle, right" width="64"/>
+  </div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00913F&height=70&section=footer" alt="" width="100%"/>
 </div>
 
@@ -17,7 +17,7 @@
 </p>
 
 <!-- About Me -->
-<img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="180" align="right"/>
+<img src="./assets/Coffee%26Code.png" alt="Coffee and code illustration" width="160" align="right"/>
 
 <p>I'm a <strong>Software Developer</strong> focused on backend development, distributed systems, database engineering, cloud computing, and process automation.</p>
 
@@ -30,8 +30,6 @@
   <a href="mailto:acarrillo.vlk@gmail.com"><img alt="Email Andrea" src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="28"/></a>
   <a href="https://discord.gg/TNRtWY9z6d" target="_blank" rel="noopener noreferrer" title="User: valky_cr"><img alt="CoffeeTech Discord" src="https://img.shields.io/badge/CoffeeTech-5865F2?style=plastic&logo=discord&logoColor=white" height="28"/></a>
 </p>
-
-<br clear="all"/>
 
 <!-- Credentials -->
 <p align="left"><sub>Certifications</sub></p>
@@ -51,6 +49,8 @@
     </td>
   </tr>
 </table>
+
+<br clear="all"/>
 
 <h3>💻 Core Tech Stack</h3>
 
