@@ -35,17 +35,17 @@
 
 <!-- Credentials -->
 <p align="left"><sub>Certifications</sub></p>
-<table width="100%">
+<table>
   <tr>
-    <td width="218" align="center" valign="middle">
+    <td width="76" align="center" valign="middle">
       <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="42" height="42" alt="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"/></a><br/>
       <sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential">AZ-900</a></sub>
     </td>
-    <td width="218" align="center" valign="middle">
+    <td width="76" align="center" valign="middle">
       <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="42" height="42" alt="GH-900 — GitHub Foundations — View credential"/></a><br/>
       <sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/730444074E386CBE?sharingId=4B17552443EC43C4" title="GH-900 — GitHub Foundations — View credential">GH-900</a></sub>
     </td>
-    <td width="217" align="center" valign="middle">
+    <td width="76" align="center" valign="middle">
       <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="42" height="42" alt="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential"/></a><br/>
       <sub><a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/2DC1174F7D2F1F1B?sharingId=4B17552443EC43C4" title="SC-900 — Microsoft Certified: Security, Compliance, and Identity Fundamentals — View credential">SC-900</a></sub>
     </td>
@@ -57,35 +57,35 @@
 <table width="734">
   <tr>
     <th align="left" valign="middle" width="193">Programming Languages</th>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
-    <td width="75" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td>
+    <td width="98" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
+    <td width="98" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++"><br><sub>C++</sub></td>
+    <td width="97" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/java/java-original.svg" width="32" alt="Java"><br><sub>Java</sub></td>
+    <td width="97" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/csharp/csharp-original.svg" width="32" alt="C#"><br><sub>C#</sub></td>
+    <td width="97" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"><br><sub>JavaScript</sub></td>
   </tr>
   <tr>
     <th align="left" valign="middle" width="193">Backend &amp; API Testing</th>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"><br><sub>FastAPI</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="32" alt=".NET"><br><sub>.NET</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/spring/spring-original.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postman/postman-original.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
-    <td width="75"></td>
+    <td width="98" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI"><br><sub>FastAPI</sub></td>
+    <td width="98" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/dotnetcore/dotnetcore-original.svg" width="32" alt=".NET"><br><sub>.NET</sub></td>
+    <td width="97" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/spring/spring-original.svg" width="32" alt="Spring"><br><sub>Spring</sub></td>
+    <td width="97" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postman/postman-original.svg" width="32" alt="Postman"><br><sub>Postman</sub></td>
+    <td width="97"></td>
   </tr>
   <tr>
     <th align="left" valign="middle" width="193">Databases</th>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mysql/mysql-original.svg" width="32" alt="MySQL"><br><sub>MySQL</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"><br><sub>MongoDB</sub></td>
-    <td width="75"></td>
+    <td width="98" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+    <td width="98" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="32" alt="SQL Server"><br><sub>SQL Server</sub></td>
+    <td width="97" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mysql/mysql-original.svg" width="32" alt="MySQL"><br><sub>MySQL</sub></td>
+    <td width="97" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"><br><sub>MongoDB</sub></td>
+    <td width="97"></td>
   </tr>
   <tr>
     <th align="left" valign="middle" width="193">Cloud &amp; Distributed Systems</th>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/azure/azure-original.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" width="32" alt="Docker"><br><sub>Docker</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/rabbitmq/rabbitmq-original.svg" width="32" alt="RabbitMQ"><br><sub>RabbitMQ</sub></td>
-    <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/redis/redis-original.svg" width="32" alt="Redis"><br><sub>Redis</sub></td>
-    <td width="75" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/githubactions/githubactions-original.svg" width="32" alt="GitHub Actions"><br><sub>GitHub Actions</sub></td>
+    <td width="98" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/azure/azure-original.svg" width="32" alt="Azure"><br><sub>Azure</sub></td>
+    <td width="98" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" width="32" alt="Docker"><br><sub>Docker</sub></td>
+    <td width="97" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/rabbitmq/rabbitmq-original.svg" width="32" alt="RabbitMQ"><br><sub>RabbitMQ</sub></td>
+    <td width="97" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/redis/redis-original.svg" width="32" alt="Redis"><br><sub>Redis</sub></td>
+    <td width="97" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/githubactions/githubactions-original.svg" width="32" alt="GitHub Actions"><br><sub>GitHub Actions</sub></td>
   </tr>
 </table>
 
