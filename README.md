@@ -24,7 +24,7 @@
 <p>I build REST APIs, asynchronous workflows, and database-driven applications, applying software engineering principles.</p>
 
 <!-- Contact Badges -->
-<p align="left">
+<p align="center">
   <a href="https://andreacarrillo-portafolio.netlify.app/"><img alt="Professional Portfolio" src="https://img.shields.io/badge/Portfolio-00913F?style=plastic&logo=netlify&logoColor=white" height="28"/></a>
   <a href="https://www.linkedin.com/in/andrea-carrillo-vlk/" target="_blank"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28"/></a>
   <a href="mailto:acarrillo.vlk@gmail.com"><img alt="Email Andrea" src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="28"/></a>
@@ -32,8 +32,8 @@
 </p>
 
 <!-- Credentials -->
-<p align="left"><sub>Certifications</sub></p>
-<table>
+<p align="center"><sub>Certifications</sub></p>
+<table align="center">
   <tr>
     <td width="76" align="center" valign="middle">
       <a href="https://learn.microsoft.com/api/credentials/share/es-es/ANDREACARRILLOOPORTO-6553/79C80AEA4FDDB812?sharingId=4B17552443EC43C4" title="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="42" height="42" alt="AZ-900 — Microsoft Certified: Azure Fundamentals — View credential"/></a><br/>
