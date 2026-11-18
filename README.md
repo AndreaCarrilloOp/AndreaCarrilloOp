@@ -54,7 +54,7 @@
 
 <h3>💻 Core Tech Stack</h3>
 
-<table width="100%">
+<table width="734">
   <tr>
     <th align="left" valign="middle" width="193">Programming Languages</th>
     <td width="76" align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" width="32" alt="Python"><br><sub>Python</sub></td>
@@ -91,7 +91,7 @@
 
 <h3>⚙️ Engineering Practices</h3>
 
-<table width="100%">
+<table width="734">
   <tr>
     <th align="left" valign="middle" width="193">Software Design</th>
     <td width="487">OOP · SOLID · Design Patterns · Data Structures · Algorithms</td>
