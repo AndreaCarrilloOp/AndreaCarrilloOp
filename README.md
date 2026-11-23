@@ -467,4 +467,4 @@
   <img alt="Space Invaders animated contribution graph" src="https://raw.githubusercontent.com/AndreaCarrilloOp/contributionDynamic/output/invaders-light.svg" width="100%"/>
 </picture>
 
-<p align="left"><sub><a href="https://github.com/AndreaCarrilloOp/contributionDynamic" target="_blank" rel="noopener noreferrer">Space Invaders · contributionDynamic</a> · <a href="https://raw.githubusercontent.com/AndreaCarrilloOp/contributionDynamic/output/invaders-dark.svg">Dark</a> · <a href="https://raw.githubusercontent.com/AndreaCarrilloOp/contributionDynamic/output/invaders-light.svg">Light</a></sub></p>
+<p align="left"><sub>Implemented by Andrea Carrillo · <a href="https://github.com/AndreaCarrilloOp/contributionDynamic" target="_blank" rel="noopener noreferrer">contributionDynamic</a> · <a href="https://raw.githubusercontent.com/AndreaCarrilloOp/contributionDynamic/output/invaders-dark.svg">Dark</a> · <a href="https://raw.githubusercontent.com/AndreaCarrilloOp/contributionDynamic/output/invaders-light.svg">Light</a></sub></p>
